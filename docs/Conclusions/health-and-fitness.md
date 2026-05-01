@@ -2,11 +2,17 @@
 
 Physical health is the foundation everything else is built on. Leo covers diet, nutrition, supplementation, fitness, and the psychology of maintaining consistent healthy habits. These episodes take a no-nonsense approach to keeping your body functioning at its best.
 
-**57 episodes** in this category.
+**58 episodes** in this category.
 
 ---
 
 ## Key Learnings & Conclusions
+
+### [How to Invest In Yourself](../Episodes/002 - How to Invest In Yourself/summary.md)
+
+Leo argues that the most important distinction in life is between short-term and long-term investing — and that most people default to the short-term mindset in every domain: career, relationships, fitness, and personal development. The video makes the case that investing in yourself — your skills, your mind, your inner game — is the highest-return activity you can undertake.
+
+[▶ Watch](https://www.youtube.com/watch?v=C1QYF5WYzCo)
 
 ### [How I Lost 65 Pounds in 5 Months](../Episodes/008 - How I Lost 65 Pounds in 5 Months/summary.md)
 

@@ -2,11 +2,23 @@
 
 Leo's perspective on money, business, and success cuts through both naive positivity and cynical materialism. These episodes explore the psychology of wealth, what it actually takes to become financially free, and why most people's relationship with money keeps them stuck.
 
-**194 episodes** in this category.
+**197 episodes** in this category.
 
 ---
 
 ## Key Learnings & Conclusions
+
+### [How to Invest In Yourself](../Episodes/002 - How to Invest In Yourself/summary.md)
+
+Leo argues that the most important distinction in life is between short-term and long-term investing — and that most people default to the short-term mindset in every domain: career, relationships, fitness, and personal development. The video makes the case that investing in yourself — your skills, your mind, your inner game — is the highest-return activity you can undertake.
+
+[▶ Watch](https://www.youtube.com/watch?v=C1QYF5WYzCo)
+
+### [Why Life Coaching Works](../Episodes/003 - Why Life Coaching Works/summary.md)
+
+Leo explains the mechanics of why life coaching works — and why it produces different results than therapy, consulting, or mentoring. The distinctive feature of coaching is that coaches ask questions rather than give advice, trusting that clients already have the answers within themselves.
+
+[▶ Watch](https://www.youtube.com/watch?v=8cbtMhHpLC8)
 
 ### [Be Different to Be Successful](../Episodes/004 - Be Different to Be Successful/summary.md)
 
@@ -19,6 +31,12 @@ This video explores the concept of being iconoclastic and contrarian as a path t
 In this video, Leo Gura addresses individuals who feel they possess vast untapped potential but struggle to actualize it, often due to feeling stuck, lost, or sidetracked. He argues that the real barrier to extraordinary success is not a lack of resources but a lack of resourcefulness and effective mindsets.
 
 [▶ Watch](https://www.youtube.com/watch?v=ZS3sOfs5jBY)
+
+### [Inner Game of Career Development](../Episodes/006 - Inner Game of Career Development/summary.md)
+
+Leo uses his own failed game design career as a case study to explain why inner game is the primary determinant of career success — more important than talent, connections, or specific skills. He identifies the specific psychological failures that derailed his trajectory: impatience and unrealistic expectations, lack of focus and serial dabbling, a feeling of inadequacy when surrounded by better people, and the impulse to start side projects and businesses as an escape from discomfort.
+
+[▶ Watch](https://www.youtube.com/watch?v=mltXbRgFlOo)
 
 ### [Mastery](../Episodes/010 - Mastery/summary.md)
 

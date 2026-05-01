@@ -2,11 +2,23 @@
 
 High performance isn't about working harder — it's about understanding your own mind. Leo's productivity teachings cover habits, routines, discipline, focus, and the psychology of getting things done. These episodes will transform how you structure your days and approach your work.
 
-**99 episodes** in this category.
+**102 episodes** in this category.
 
 ---
 
 ## Key Learnings & Conclusions
+
+### [Mastery Part 1](../Episodes/001 - Mastery Part 1/summary.md)
+
+This is Leo's first video on the concept of mastery, drawing on George Leonard's classic book *Mastery*. Leo argues that modern culture has lost its appreciation for long-term skill development, replacing it with a "magic pill" mentality that chases quick results.
+
+[▶ Watch](https://www.youtube.com/watch?v=_874QVgwvEk)
+
+### [Why Life Coaching Works](../Episodes/003 - Why Life Coaching Works/summary.md)
+
+Leo explains the mechanics of why life coaching works — and why it produces different results than therapy, consulting, or mentoring. The distinctive feature of coaching is that coaches ask questions rather than give advice, trusting that clients already have the answers within themselves.
+
+[▶ Watch](https://www.youtube.com/watch?v=8cbtMhHpLC8)
 
 ### [Be Different to Be Successful](../Episodes/004 - Be Different to Be Successful/summary.md)
 
@@ -19,6 +31,12 @@ This video explores the concept of being iconoclastic and contrarian as a path t
 In this video, Leo Gura addresses individuals who feel they possess vast untapped potential but struggle to actualize it, often due to feeling stuck, lost, or sidetracked. He argues that the real barrier to extraordinary success is not a lack of resources but a lack of resourcefulness and effective mindsets.
 
 [▶ Watch](https://www.youtube.com/watch?v=ZS3sOfs5jBY)
+
+### [Inner Game of Career Development](../Episodes/006 - Inner Game of Career Development/summary.md)
+
+Leo uses his own failed game design career as a case study to explain why inner game is the primary determinant of career success — more important than talent, connections, or specific skills. He identifies the specific psychological failures that derailed his trajectory: impatience and unrealistic expectations, lack of focus and serial dabbling, a feeling of inadequacy when surrounded by better people, and the impulse to start side projects and businesses as an escape from discomfort.
+
+[▶ Watch](https://www.youtube.com/watch?v=mltXbRgFlOo)
 
 ### [The Number One Reason Why You're Not Succeeding](../Episodes/014 - The Number One Reason Why You're Not Succeeding/summary.md)
 

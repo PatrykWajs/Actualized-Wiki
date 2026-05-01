@@ -2,7 +2,7 @@
 
 Emotions run your life more than logic ever will. Leo digs into the mechanics of anger, fear, anxiety, jealousy, guilt, and shame — explaining why they arise and how to work with them rather than against them. These episodes offer a mature, psychologically sophisticated approach to emotional life.
 
-**56 episodes** in this category.
+**57 episodes** in this category.
 
 ---
 
@@ -13,6 +13,12 @@ Emotions run your life more than logic ever will. Leo digs into the mechanics of
 In this video, Leo Gura addresses individuals who feel they possess vast untapped potential but struggle to actualize it, often due to feeling stuck, lost, or sidetracked. He argues that the real barrier to extraordinary success is not a lack of resources but a lack of resourcefulness and effective mindsets.
 
 [▶ Watch](https://www.youtube.com/watch?v=ZS3sOfs5jBY)
+
+### [Inner Game of Career Development](../Episodes/006 - Inner Game of Career Development/summary.md)
+
+Leo uses his own failed game design career as a case study to explain why inner game is the primary determinant of career success — more important than talent, connections, or specific skills. He identifies the specific psychological failures that derailed his trajectory: impatience and unrealistic expectations, lack of focus and serial dabbling, a feeling of inadequacy when surrounded by better people, and the impulse to start side projects and businesses as an escape from discomfort.
+
+[▶ Watch](https://www.youtube.com/watch?v=mltXbRgFlOo)
 
 ### [Personal Development Blueprint - Intro - Actualized.org](../Episodes/025 - Personal Development Blueprint - Intro - Actualized.org/summary.md)
 

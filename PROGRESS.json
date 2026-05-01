@@ -1,0 +1,3521 @@
+{
+  "total": 505,
+  "last_updated": "2026-05-01",
+  "note": "Channel reports 535 videos; 505 scraped (remainder are likely Shorts/private). Sorted oldest-first.",
+  "videos": [
+    {
+      "num": 1,
+      "id": "_874QVgwvEk",
+      "title": "Mastery Part 1",
+      "status": "done",
+      "processed": "2026-04-26"
+    },
+    {
+      "num": 2,
+      "id": "C1QYF5WYzCo",
+      "title": "How to Invest In Yourself",
+      "status": "done",
+      "processed": "2026-04-26"
+    },
+    {
+      "num": 3,
+      "id": "8cbtMhHpLC8",
+      "title": "Why Life Coaching Works",
+      "status": "done",
+      "processed": "2026-04-26"
+    },
+    {
+      "num": 4,
+      "id": "mlIYVsuIofs",
+      "title": "Be Different to Be Successful",
+      "status": "done",
+      "processed": "2026-04-26"
+    },
+    {
+      "num": 5,
+      "id": "ZS3sOfs5jBY",
+      "title": "Get Coached",
+      "status": "done",
+      "processed": "2026-04-26"
+    },
+    {
+      "num": 6,
+      "id": "mltXbRgFlOo",
+      "title": "Inner Game of Career Development",
+      "status": "done",
+      "processed": "2026-04-26"
+    },
+    {
+      "num": 7,
+      "id": "JL3tHS7v334",
+      "title": "The Most Interesting Problem in Philosophy and Science",
+      "status": "done",
+      "processed": "2026-04-26"
+    },
+    {
+      "num": 8,
+      "id": "pYVjxSopKzw",
+      "title": "How I Lost 65 Pounds in 5 Months",
+      "status": "done",
+      "processed": "2026-04-26"
+    },
+    {
+      "num": 9,
+      "id": "g4i0BYQXYKg",
+      "title": "Understanding Resistance",
+      "status": "no-transcript"
+    },
+    {
+      "num": 10,
+      "id": "jymhbbZiL6A",
+      "title": "Mastery",
+      "status": "done",
+      "processed": "2026-04-26"
+    },
+    {
+      "num": 11,
+      "id": "jSLPJ0ZD5c0",
+      "title": "Work Less to Accomplish More",
+      "status": "no-transcript"
+    },
+    {
+      "num": 12,
+      "id": "QxUwcHrKsa8",
+      "title": "What's the Worst That Can Happen?",
+      "status": "done",
+      "processed": "2026-04-29"
+    },
+    {
+      "num": 13,
+      "id": "evCkUWCnNmY",
+      "title": "What a Roman Emperor Can Teach You About Happiness",
+      "status": "done",
+      "processed": "2026-04-29"
+    },
+    {
+      "num": 14,
+      "id": "SpnP07-SLRI",
+      "title": "The Number One Reason Why You're Not Succeeding",
+      "status": "done",
+      "processed": "2026-04-29"
+    },
+    {
+      "num": 15,
+      "id": "izNw3DO1v9o",
+      "title": "The Problem of Self-Control",
+      "status": "done",
+      "processed": "2026-04-29"
+    },
+    {
+      "num": 16,
+      "id": "FFrR0cGWnac",
+      "title": "The Art of Solving Problems Permanently",
+      "status": "done",
+      "processed": "2026-04-29"
+    },
+    {
+      "num": 17,
+      "id": "wrOJS8sdh_0",
+      "title": "How You Must Think About Failure",
+      "status": "done",
+      "processed": "2026-04-29"
+    },
+    {
+      "num": 18,
+      "id": "M-6FxH_p5_k",
+      "title": "Life Purpose - Critical Points For Finding Your Life Purpose",
+      "status": "done",
+      "processed": "2026-04-29"
+    },
+    {
+      "num": 19,
+      "id": "hgvVEW3XEo8",
+      "title": "As Good As Your Life Will Ever Get",
+      "status": "done",
+      "processed": "2026-04-29"
+    },
+    {
+      "num": 20,
+      "id": "xuiCHMVFY_A",
+      "title": "How to Delegate to Your Subconscious Mind",
+      "status": "done",
+      "processed": "2026-04-29"
+    },
+    {
+      "num": 21,
+      "id": "j3MQxCgNF5g",
+      "title": "Garbage In, Garbage Out - Watch Your Information Intake",
+      "status": "done",
+      "processed": "2026-04-29"
+    },
+    {
+      "num": 22,
+      "id": "4joMXQiImAY",
+      "title": "The $100 Million Dollar Question",
+      "status": "done",
+      "processed": "2026-04-29"
+    },
+    {
+      "num": 23,
+      "id": "blI9D8ZeC38",
+      "title": "Positive vs Negative Motivation",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 24,
+      "id": "oSI-wQb24tM",
+      "title": "How To Transform Your Entire Life",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 25,
+      "id": "l5RK6rPJaDU",
+      "title": "Personal Development Blueprint - Intro - Actualized.org",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 26,
+      "id": "GYblZNLVUM0",
+      "title": "Personal Development - The Ultimate Vision of What You Can Be",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 27,
+      "id": "6CWyUuMbegk",
+      "title": "Life Purpose - The Thrill of Creative Contribution",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 28,
+      "id": "yvRWqGpKx-s",
+      "title": "Success & Creativity - Why You Should Be More Schizophrenic",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 29,
+      "id": "veMExOmq5zA",
+      "title": "How To Become Decisive",
+      "status": "done",
+      "processed": "2026-04-29"
+    },
+    {
+      "num": 30,
+      "id": "RMXNQ-nGBSA",
+      "title": "The Power Of Not-Knowing",
+      "status": "done",
+      "processed": "2026-04-29"
+    },
+    {
+      "num": 31,
+      "id": "u31Nk3ZAh-o",
+      "title": "How To Fall In Love With Life",
+      "status": "done",
+      "processed": "2026-04-29"
+    },
+    {
+      "num": 32,
+      "id": "EzTEzav5l20",
+      "title": "How To Practice Love - What Does It Mean To Love?",
+      "status": "done",
+      "processed": "2026-04-29"
+    },
+    {
+      "num": 33,
+      "id": "skoXFwOxTIk",
+      "title": "New Kind Of Awakening: Infinity Of Gods",
+      "status": "done",
+      "processed": "2026-04-29"
+    },
+    {
+      "num": 34,
+      "id": "2u5M6tDc5TE",
+      "title": "State Of Consciousness Is Everything",
+      "status": "done",
+      "processed": "2026-04-29"
+    },
+    {
+      "num": 35,
+      "id": "EokHiVt0KeU",
+      "title": "Lessons From Ketamine - Is Ketamine Useful For Spirituality?",
+      "status": "done",
+      "processed": "2026-04-29"
+    },
+    {
+      "num": 36,
+      "id": "Zc_ddIVZ3gU",
+      "title": "How To Avoid Getting Scammed, Cheated, Exploited, Conned, and Screwed In Life",
+      "status": "done",
+      "processed": "2026-04-29"
+    },
+    {
+      "num": 37,
+      "id": "tZl1oRncFS4",
+      "title": "Understanding War & Conflict - Part 1",
+      "status": "done",
+      "processed": "2026-04-29"
+    },
+    {
+      "num": 38,
+      "id": "hxnV4ymozLw",
+      "title": "The Avoidance Of Truth - Why You Fear Truth",
+      "status": "done",
+      "processed": "2026-04-29"
+    },
+    {
+      "num": 39,
+      "id": "nJsyiFJ1iVs",
+      "title": "Understanding Creation vs Destruction",
+      "status": "done",
+      "processed": "2026-04-29"
+    },
+    {
+      "num": 40,
+      "id": "FshM0798jeg",
+      "title": "How To Detox Heavy Metals (Lead & Mercury) + DEMO",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 41,
+      "id": "KXMDQmQoO60",
+      "title": "How To Get Laid - Part 3 - The Top Principles Of Game",
+      "status": "done",
+      "processed": "2026-04-29"
+    },
+    {
+      "num": 42,
+      "id": "XBtCxHuYp8M",
+      "title": "How To Get Laid - Part 2 - Outer Game Techniques",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 43,
+      "id": "6DEGfopquio",
+      "title": "How To Get Laid - Part 1 - The Foundations Of Success With Women",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 44,
+      "id": "ffHpix-YDIU",
+      "title": "Burning Through Karma - How To Exhaust Material Desires",
+      "status": "done",
+      "processed": "2026-04-29"
+    },
+    {
+      "num": 45,
+      "id": "hPOr4HU_IhY",
+      "title": "Assumption Is The Mother Of All F**k-Ups",
+      "status": "done",
+      "processed": "2026-04-29"
+    },
+    {
+      "num": 46,
+      "id": "Z2CYaAojC_A",
+      "title": "Motivational Speech - Oct 2021",
+      "status": "done",
+      "processed": "2026-04-29"
+    },
+    {
+      "num": 47,
+      "id": "U9qBUJLgPzw",
+      "title": "Leo's Worst Bad Trips - Psychedelics Gone Wrong",
+      "status": "done",
+      "processed": "2026-04-29"
+    },
+    {
+      "num": 48,
+      "id": "wSnfEZJ0SO8",
+      "title": "What Is Paradox? - Why Does Paradox Exist?",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 49,
+      "id": "-GZSsI3aaI8",
+      "title": "Does Free Will Exist? - What Is Will?",
+      "status": "done",
+      "processed": "2026-04-29"
+    },
+    {
+      "num": 50,
+      "id": "seG-RLxnnQQ",
+      "title": "Introducing 5-MeO-MALT - The Other God Molecule",
+      "status": "done",
+      "processed": "2026-04-29"
+    },
+    {
+      "num": 51,
+      "id": "TcJQcKZcI4Y",
+      "title": "Life, It's All A Mind Game!",
+      "status": "done",
+      "processed": "2026-04-29"
+    },
+    {
+      "num": 52,
+      "id": "BKPun7oY2ZI",
+      "title": "Understanding Bias - Bias, Love, & Mind Explained",
+      "status": "done",
+      "processed": "2026-04-29"
+    },
+    {
+      "num": 53,
+      "id": "uw6lRNBZvv8",
+      "title": "Why Valuable Things Require Development Over Time",
+      "status": "done",
+      "processed": "2026-04-29"
+    },
+    {
+      "num": 54,
+      "id": "1W1BNqvEHzU",
+      "title": "Everyone Acts From Good Intentions",
+      "status": "done",
+      "processed": "2026-04-29"
+    },
+    {
+      "num": 55,
+      "id": "fqUJI-NuiJM",
+      "title": "What Does Awakening Feel Like?",
+      "status": "no-transcript"
+    },
+    {
+      "num": 56,
+      "id": "quiontVtJ5U",
+      "title": "Satisfaction Meditation - How To Make Meditation Enjoyable!",
+      "status": "done",
+      "processed": "2026-04-29"
+    },
+    {
+      "num": 57,
+      "id": "JZqEMok_NXw",
+      "title": "The Root Solution To People Pleasing & Loneliness",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 58,
+      "id": "mgLTBJBWZtM",
+      "title": "The Top Dangers Of Using Psychedelics",
+      "status": "done",
+      "processed": "2026-04-29"
+    },
+    {
+      "num": 59,
+      "id": "RAqOMGnJ2MQ",
+      "title": "The Social Matrix - How Society Is A Mass Hallucination",
+      "status": "done",
+      "processed": "2026-04-29"
+    },
+    {
+      "num": 60,
+      "id": "Vr69GZikub0",
+      "title": "Relative vs Absolute Truth",
+      "status": "done",
+      "processed": "2026-04-29"
+    },
+    {
+      "num": 61,
+      "id": "Bs9g9B0O0to",
+      "title": "How Your Mind Interprets Reality",
+      "status": "done",
+      "processed": "2026-04-29"
+    },
+    {
+      "num": 62,
+      "id": "J0KwqCGl_F8",
+      "title": "Why God Forgives Devilry & Evil",
+      "status": "done",
+      "processed": "2026-04-27"
+    },
+    {
+      "num": 63,
+      "id": "9Oc8NoJZVys",
+      "title": "Not Everything Can Be Explained Simply",
+      "status": "done",
+      "processed": "2026-04-27"
+    },
+    {
+      "num": 64,
+      "id": "D_Fei3ho6Xo",
+      "title": "Expose Yourself To More Experience",
+      "status": "done",
+      "processed": "2026-04-27"
+    },
+    {
+      "num": 65,
+      "id": "AzZ_05q3XXw",
+      "title": "How Modern Branding Exploits & Abuses You",
+      "status": "done",
+      "processed": "2026-04-27"
+    },
+    {
+      "num": 66,
+      "id": "Jar8Pd5oo_s",
+      "title": "Understanding & Coping With Nihilism",
+      "status": "done",
+      "processed": "2026-04-27"
+    },
+    {
+      "num": 67,
+      "id": "HcPqApdlODY",
+      "title": "The Dangers Of Misapplying Spiritual Teachings",
+      "status": "done",
+      "processed": "2026-04-27"
+    },
+    {
+      "num": 68,
+      "id": "PgmJj0Gn1WM",
+      "title": "An Advanced Explanation Of God-Realization",
+      "status": "done",
+      "processed": "2026-04-27"
+    },
+    {
+      "num": 69,
+      "id": "fzQ3SSpiQvQ",
+      "title": "Making Sense Of Jordan Peterson - The Big Picture",
+      "status": "done",
+      "processed": "2026-04-27"
+    },
+    {
+      "num": 70,
+      "id": "QClcf2fgxTo",
+      "title": "Is Gender A Social Construct? - A Profound Explanation",
+      "status": "done",
+      "processed": "2026-04-27"
+    },
+    {
+      "num": 71,
+      "id": "KIMVc8z60iI",
+      "title": "Launch Of New, 2nd Actualized.org Channel",
+      "status": "done",
+      "processed": "2026-04-27"
+    },
+    {
+      "num": 72,
+      "id": "mPIVZtxYHJc",
+      "title": "How Survival Shapes Who You Are",
+      "status": "done",
+      "processed": "2026-04-27"
+    },
+    {
+      "num": 73,
+      "id": "RufJt0FZc4c",
+      "title": "What Is Integrity? - The Role Of Integrity In Life",
+      "status": "done",
+      "processed": "2026-04-27"
+    },
+    {
+      "num": 74,
+      "id": "pecdXcIu1ZQ",
+      "title": "Is Actualized.org A Cult?",
+      "status": "done",
+      "processed": "2026-04-27"
+    },
+    {
+      "num": 75,
+      "id": "Egjw71k10Rc",
+      "title": "What It Means To \"Go Meta\"",
+      "status": "done",
+      "processed": "2026-04-27"
+    },
+    {
+      "num": 76,
+      "id": "g4A7SBx-CEg",
+      "title": "Holism & Holistic Thinking - Part 2",
+      "status": "done",
+      "processed": "2026-04-27"
+    },
+    {
+      "num": 77,
+      "id": "5tmKFbXneis",
+      "title": "Holism & Holistic Thinking - Part 1",
+      "status": "done",
+      "processed": "2026-04-27"
+    },
+    {
+      "num": 78,
+      "id": "mUWgw4y6lzw",
+      "title": "What Are Holons? - Understanding Holism - Part 1",
+      "status": "done",
+      "processed": "2026-04-27"
+    },
+    {
+      "num": 79,
+      "id": "FgS4l1heQTc",
+      "title": "What Is Wisdom? - The Ultimate Guide To Wisdom",
+      "status": "done",
+      "processed": "2026-04-27"
+    },
+    {
+      "num": 80,
+      "id": "gdWxdhEB19s",
+      "title": "Guided Exercise For Realizing You Are God",
+      "status": "done",
+      "processed": "2026-04-27"
+    },
+    {
+      "num": 81,
+      "id": "3Z4D-gBLT-Y",
+      "title": "What Is Goodness? - Good & Morality Fully Explained",
+      "status": "no-transcript"
+    },
+    {
+      "num": 82,
+      "id": "yVU2kOlXJ0E",
+      "title": "Should You Go To College? - Common Traps & Mistakes",
+      "status": "done",
+      "processed": "2026-04-27"
+    },
+    {
+      "num": 83,
+      "id": "FeOIuybpfgc",
+      "title": "Deconstructing The Myth Of Science - Part 3",
+      "status": "done",
+      "processed": "2026-04-27"
+    },
+    {
+      "num": 84,
+      "id": "LR2rB8tuD2I",
+      "title": "Deconstructing The Myth Of Science - Part 2",
+      "status": "done",
+      "processed": "2026-04-27"
+    },
+    {
+      "num": 85,
+      "id": "QwyPdXtl0HU",
+      "title": "Deconstructing The Myth Of Science - Part 1",
+      "status": "done",
+      "processed": "2026-04-27"
+    },
+    {
+      "num": 86,
+      "id": "78G-wkpH5ow",
+      "title": "Guided Exercises For Understanding Infinite Consciousness",
+      "status": "done",
+      "processed": "2026-04-27"
+    },
+    {
+      "num": 87,
+      "id": "6vVIbPdfjxg",
+      "title": "What Is Actualized.org? - The Big Picture of Personal Development",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 88,
+      "id": "-cZ5gGloYa8",
+      "title": "The Sneaky Psychology Behind Conspiracy Theories",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 89,
+      "id": "6tsnWCUNIek",
+      "title": "Developing Introspection - The Solution To The Problem Of Self-Deception",
+      "status": "done",
+      "processed": "2026-04-27"
+    },
+    {
+      "num": 90,
+      "id": "6Ti0fl_TUUo",
+      "title": "The Trap Of The Toxic Life Purpose",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 91,
+      "id": "pGItuEai8vo",
+      "title": "The 9 Stages Of Ego Development - Part 3",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 92,
+      "id": "G8fIhLDV3L4",
+      "title": "The 9 Stages Of Ego Development - Part 2",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 93,
+      "id": "J3hNosyyXRA",
+      "title": "The 9 Stages Of Ego Development - Part 1",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 94,
+      "id": "BZFlE0eKTvw",
+      "title": "Spiral Dynamics - Stage Purple",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 95,
+      "id": "XEHYK3TM2jc",
+      "title": "Spiral Dynamics - Stage Red",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 96,
+      "id": "DhMroy-fP00",
+      "title": "Why Is There Something Rather Than Nothing?",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 97,
+      "id": "_JmNzIN0c2c",
+      "title": "What If Reality Is Nothing But Perspective?",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 98,
+      "id": "ivHgi791pHY",
+      "title": "Why Libertarianism Is Nonsense - Deconstructing Freedom",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 99,
+      "id": "HP_nwEWJu70",
+      "title": "Understanding Democracy & Authoritarianism",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 100,
+      "id": "Ng9OqpMmIb0",
+      "title": "The Ultimate Structure Of Reality Explained",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 101,
+      "id": "liwbIO4tbxE",
+      "title": "Life Advice For Young People - Part 2",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 102,
+      "id": "UgAidoUE5YQ",
+      "title": "Learning = Making Distinctions - The Secret To Rapid & Deep Learning",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 103,
+      "id": "GlFjhO0lgLA",
+      "title": "How To Forgive Anyone Who Hurt You - A Powerful Trauma Release Exercise",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 104,
+      "id": "q3Ap1-UkPLU",
+      "title": "Life Advice For Young People - Part 1",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 105,
+      "id": "cNTmVAZIUB0",
+      "title": "How Openmindedness Works - Exercises To Open Your Mind",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 106,
+      "id": "mnn0IU0-atg",
+      "title": "Outrageous Experiments In Consciousness - 30 Awakenings In 30 Days",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 107,
+      "id": "23gbVOoRbtA",
+      "title": "I'm Leaving To Pursue Awakening & Healing - March 2020",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 108,
+      "id": "_8kybdrx1Xo",
+      "title": "How Society Evolves - Introducing The World Values Survey",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 109,
+      "id": "vJG8swAQYwc",
+      "title": "How Psychedelics Work - Making Sense Of Psychedelics",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 110,
+      "id": "Y9d0tOpL8ZU",
+      "title": "Explicit vs Implicit Understanding",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 111,
+      "id": "NnpRkE4L_io",
+      "title": "Total Awakening Live In Real Time - Part 2",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 112,
+      "id": "WNKWGo30zR4",
+      "title": "Total Awakening Live In Real Time - Part 1",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 113,
+      "id": "W0fmj0Im_ZU",
+      "title": "Reproduction Is An Illusion - Why It Doesn't Matter If You Have Kids",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 114,
+      "id": "1tEtI9m-Vok",
+      "title": "Why Reality CANNOT Be A Simulation - A Clear Answer",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 115,
+      "id": "vp99hZJfBHg",
+      "title": "Division vs Unity - The Engine That Runs Reality",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 116,
+      "id": "4OmMpYa7R_U",
+      "title": "Self-Love - The Highest Teaching In The Universe",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 117,
+      "id": "1zjuDdysOL8",
+      "title": "What Is Death? - How Immortality Works",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 118,
+      "id": "eq3htbsa5rk",
+      "title": "Content vs Structure - Going Meta Is A Super-power",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 119,
+      "id": "BdrmdMhf_sY",
+      "title": "How To Discover What's True - A Deep Inquiry",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 120,
+      "id": "Oaiqh4OEtAw",
+      "title": "The Dangers Of Spiritual Work",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 121,
+      "id": "sRvQlgu_bRs",
+      "title": "How Corruption Works",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 122,
+      "id": "OgtPGEBGUWw",
+      "title": "The Many Facets Of Awakening - List of Top 30 Enlightenment Insights",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 123,
+      "id": "YYoNpU9rY_k",
+      "title": "Announcement - Actualized.org Launching On Patreon + Vision For The Future",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 124,
+      "id": "ZCS4NsCdQaM",
+      "title": "Understanding Impermanence - Why Reality Is Always Changing",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 125,
+      "id": "3ouiCKtqbCo",
+      "title": "How Fear Works - Part 2 - The Ultimate Guide To Dealing With Fear",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 126,
+      "id": "meiMUbYEQ4U",
+      "title": "How Fear Works - Part 1 - The Ultimate Guide To Dealing With Fear",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 127,
+      "id": "d7B7A3GBdMw",
+      "title": "What Is Love? - Part 2 - The Brutal Nature Of Love",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 128,
+      "id": "AlB6OklejyA",
+      "title": "The Power Of Letting Go - How To Overcome Clinginess, Attachment, OCD",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 129,
+      "id": "nvaPmKQVIuQ",
+      "title": "What Is Truth? - The Definitive Answer",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 130,
+      "id": "qMqNRUILvHc",
+      "title": "Self-Bias - Why All Worldviews Are So Skewed",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 131,
+      "id": "XSV0ZhD_yvw",
+      "title": "Conscious Politics - Part 4 - 100+ Specific Policy Proposals",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 132,
+      "id": "xpvjr1gbz0s",
+      "title": "Conscious Politics - Part 3 - The Core Principles Of Conscious Politics",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 133,
+      "id": "GmBzfYXrC4I",
+      "title": "Conscious Politics - Part 2 - Foundational Insights About Political Ideology",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 134,
+      "id": "klWq18u3GiU",
+      "title": "Conscious Politics - Part 1 - The Deepest Political Analysis You'll Ever Hear",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 135,
+      "id": "xyzYKVL5CB0",
+      "title": "How Authority Works - Where Does Truth Come From?",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 136,
+      "id": "jmBQRb5iuMg",
+      "title": "What Is Reality? - A Radical Explanation",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 137,
+      "id": "UyBETFn5KXk",
+      "title": "Understanding Relativism - Part 1",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 138,
+      "id": "CyGPqFMy6vY",
+      "title": "Understanding Survival - Part 2 - Advanced Insights About Survival",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 139,
+      "id": "i8NNtpzYQx8",
+      "title": "Understanding Survival - Part 1 - The Metaphysics Of Being Human",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 140,
+      "id": "9PjZB9CoFfs",
+      "title": "What Is The Point Of Life? - An Advanced, Life-Changing Explanation",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 141,
+      "id": "42kY07F5pTs",
+      "title": "The Power Of Asking Questions",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 142,
+      "id": "ym0mSXSNZsU",
+      "title": "Life Unfolds In Chapters & Phases",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 143,
+      "id": "D4izvIGPsXQ",
+      "title": "Understanding Duality - Part 3 - Existential Dualities",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 144,
+      "id": "-ti5HmiBVmo",
+      "title": "Understanding Duality - Part 2 - Scientific Dualities",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 145,
+      "id": "FO3YtZwhN2k",
+      "title": "Understanding Duality - Part 1 - Master List of 250+ Dualities",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 146,
+      "id": "ywHfNSwcCS8",
+      "title": "Becoming God - Insights From 13 Back-to-Back Awakenings",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 147,
+      "id": "yhfeLiuG_wo",
+      "title": "Leaving On 30-Day Solo Retreat",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 148,
+      "id": "8GjGMWBWWKM",
+      "title": "Aztec Nonduality - Profound Life Lessons From Aztec Philosophy",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 149,
+      "id": "YMLuA2MzV40",
+      "title": "What Is God? - Part 2 - Clear Answers To 70+ Commonly Asked Questions",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 150,
+      "id": "YE1yPCeF1Cc",
+      "title": "What Is God? - Part 1 - A No Bullshit Explanation For Smart People",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 151,
+      "id": "3P1R-wHd0bI",
+      "title": "Cult Psychology - Part 2 - The Big Picture",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 152,
+      "id": "Y73laz3etM8",
+      "title": "Cult Psychology - Part 1 - How Cults Work",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 153,
+      "id": "30grH6X_Q7M",
+      "title": "How To Do Self-Inquiry",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 154,
+      "id": "Fi1fG8bw2KM",
+      "title": "Spiral Dynamics - Areas Of Application",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 155,
+      "id": "LL9Q5sHkCFg",
+      "title": "Understanding Ego Backlash",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 156,
+      "id": "LGpYE-FZRhA",
+      "title": "The Counter-Intuitive Nature Of Life",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 157,
+      "id": "w4ZWNzSliGk",
+      "title": "The Ten Ox-Herding Pictures - Zen's Stages Of Enlightenment Explained",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 158,
+      "id": "LdGjKOnxLtE",
+      "title": "Spiral Dynamics - Important Insights & Nuances",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 159,
+      "id": "8Jbvik4IA3o",
+      "title": "What Is Perception? - The Metaphysics Of Perception",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 160,
+      "id": "BqWPqZK-Ikg",
+      "title": "65 Core Principles Of Living The Good Life",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 161,
+      "id": "qfYOaFTUVoo",
+      "title": "The Radical Implications Of Oneness (Halloween Edition)",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 162,
+      "id": "gQQrrCjZyPc",
+      "title": "Nootropics - Top Supplements For Increasing Mental Performance",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 163,
+      "id": "8dVa6_e9FWw",
+      "title": "Mankind Is The Bullshitting Animal",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 164,
+      "id": "F4HV6oKJgiE",
+      "title": "What Is Actuality? - Distinguish Direct Experience vs Concept",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 165,
+      "id": "HJXthKsytpE",
+      "title": "35+ Subfields Of Self-Help",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 166,
+      "id": "XdbcsRxDQvM",
+      "title": "What Is Love? - Advanced Spiritual Explanation",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 167,
+      "id": "VQCWryMBRxQ",
+      "title": "Body Awareness - How To Relax Your Body",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 168,
+      "id": "yIsbVpBJ110",
+      "title": "How To Escape Wage Slavery",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 169,
+      "id": "76UuTIbW9W0",
+      "title": "What Is Spirituality? - A No-Bullshit Intro To Spirituality",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 170,
+      "id": "WeIfHozjcls",
+      "title": "Life Is A Maze",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 171,
+      "id": "kPZekGtwWxU",
+      "title": "How Ideology Works",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 172,
+      "id": "M5tWkG5SGcU",
+      "title": "Sameness vs Difference - The Metaphysical Foundation Of Reality",
+      "status": "no-transcript"
+    },
+    {
+      "num": 173,
+      "id": "PineU9ZZvSc",
+      "title": "How To Contemplate Using A Journal",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 174,
+      "id": "eR-1lvp82zY",
+      "title": "Understanding Recontextualization",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 175,
+      "id": "w0d1TsOcbQs",
+      "title": "Spiral Dynamics - Stage Yellow",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 176,
+      "id": "z_Gy3mTztgg",
+      "title": "Spiral Dynamics - Stage Green",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 177,
+      "id": "0zfw76P_Cq4",
+      "title": "Spiral Dynamics - Stage Orange",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 178,
+      "id": "_5iLt1p-W1U",
+      "title": "Spiral Dynamics - Stage Blue",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 179,
+      "id": "bQSUu2CRRBE",
+      "title": "What Is Intelligence? - Infinite Intelligence Explained",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 180,
+      "id": "Dw44V15xgPo",
+      "title": "What Is Consciousness? - All Questions Answered",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 181,
+      "id": "A9T8XD2-Hq0",
+      "title": "Going Buddha - 30 Day Meditation Challenge",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 182,
+      "id": "wDj6LBW55aU",
+      "title": "Collective Ego - Understanding The Egoic Dynamics Of Social Systems",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 183,
+      "id": "w6VcbH2ypMg",
+      "title": "Shamanic Breathing Technique + LIVE DEMO",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 184,
+      "id": "Fe3iqJ6hTGA",
+      "title": "Understanding Islam - What Most People Misunderstand",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 185,
+      "id": "qWuaPEpKgfk",
+      "title": "Metaphysical Implications Of Godel's Incompleteness Theorem - Part 1",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 186,
+      "id": "b57ZZHripRk",
+      "title": "Comprehending The Magnitude Of Reality",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 187,
+      "id": "1st_ulCPeR4",
+      "title": "Quantum Mechanics Debunks Materialism - Part 2",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 188,
+      "id": "IMtDuv48XsQ",
+      "title": "Quantum Mechanics Debunks Materialism - Part 1",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 189,
+      "id": "yAmb4H0PRAs",
+      "title": "The Importance Of Real Yoga",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 190,
+      "id": "RNgns7nQ7rs",
+      "title": "My Deepest Awakening Yet - Becoming Infinite",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 191,
+      "id": "sPug0GxWQNg",
+      "title": "How To Shop For Healthy Food",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 192,
+      "id": "JmvvzpzGCWE",
+      "title": "Life Is A Dream",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 193,
+      "id": "P0FOMSA2ZrU",
+      "title": "Hitler Reacts To Nonduality / Enlightenment - FUNNY!",
+      "status": "no-transcript"
+    },
+    {
+      "num": 194,
+      "id": "W9ODZLAAQsE",
+      "title": "Self-Deception - Part 3",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 195,
+      "id": "BOM5dGWz7NM",
+      "title": "Enlightenment Experience Explanation & Key Lessons",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 196,
+      "id": "n_6TZMr1HXM",
+      "title": "Enlightenment Experience Happening In Real Time - LIVE!",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 197,
+      "id": "C9MS701rvoQ",
+      "title": "Self Deception - Part 2 - 60+ Self-Deception Mechanisms",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 198,
+      "id": "Xi_K402KU0A",
+      "title": "Self-Deception - Part 1",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 199,
+      "id": "EYWOX3OYfFQ",
+      "title": "All Criticism Is Untenable",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 200,
+      "id": "gn1-lBpD_6c",
+      "title": "Jacques Derrida, Deconstruction, Post-Modernism & Nonduality",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 201,
+      "id": "Cimu22wuJ1U",
+      "title": "The Deep Problem Of Marketing",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 202,
+      "id": "Ey3x1zkjx6k",
+      "title": "Motivational Speech For Building A Passionate Life",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 203,
+      "id": "O7COBxw71MM",
+      "title": "The Theme Of Things Going Full-Circle",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 204,
+      "id": "-7mAU6YDIcU",
+      "title": "Reality Is A Strange Loop - The Beauty Of Paradox + GRAPHICS",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 205,
+      "id": "5N9xARPfJYY",
+      "title": "Why Brains Do Not Exist",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 206,
+      "id": "Fh-BchpGXD0",
+      "title": "Comprehension Has Many Degrees",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 207,
+      "id": "0wNk25KEBpw",
+      "title": "How To Keep The Ultimate Journal (Commonplace Book) + LIVE DEMO",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 208,
+      "id": "DV7a-N3-nkw",
+      "title": "Building Your Existential Vocabulary",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 209,
+      "id": "Y23xkd2kqlo",
+      "title": "Advanced Tips For Self-Inquiry",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 210,
+      "id": "n_Np__9UQ2E",
+      "title": "The Topic Of Mindfuckery",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 211,
+      "id": "GleAnI_q2Es",
+      "title": "Correcting The Stigma Of Psychedelics - Part 2",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 212,
+      "id": "q1LetVyCMb0",
+      "title": "Learning = Observation",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 213,
+      "id": "TazyFTavMyA",
+      "title": "Correcting The Stigma Of Psychedelics - Part 1",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 214,
+      "id": "vhsZusKc5zI",
+      "title": "How To Raise Rockstar Kids",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 215,
+      "id": "rVcxIamwO5g",
+      "title": "What Is The Devil? - The Mechanics Of Evil",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 216,
+      "id": "cZPSLBTJXds",
+      "title": "Distraction - The Ego's Favorite Defense Mechanism",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 217,
+      "id": "zGDGobqibDc",
+      "title": "Understanding Meaning, Purpose, & Value",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 218,
+      "id": "vYAEr_94EDY",
+      "title": "No Growth Possible Without Training",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 219,
+      "id": "V7d_28EqIu0",
+      "title": "Learning = Behavior Change",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 220,
+      "id": "OxiiiqQyeBM",
+      "title": "Leo Hits Rock Bottom - EVERYTHING Understood",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 221,
+      "id": "wuiz_ze-y8M",
+      "title": "Setting Proper Expectations",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 222,
+      "id": "JkoDlg3zy7E",
+      "title": "What Is Art? - Understanding The Essence Of Art",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 223,
+      "id": "rZT9x3XDZ8g",
+      "title": "Understanding Absolute Infinity - Part 2",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 224,
+      "id": "tS3mMZblq0U",
+      "title": "Understanding Absolute Infinity - Part 1",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 225,
+      "id": "CIPE5YH2zgc",
+      "title": "Making Sense Of Paranormal Phenomena & Psychic Powers",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 226,
+      "id": "Lzzu0kel7d0",
+      "title": "Successful People Are Not Happy",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 227,
+      "id": "xZPxIqqOxHA",
+      "title": "Subtle Addictions",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 228,
+      "id": "ufkb8vvbO3k",
+      "title": "Why People Seem Crazy",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 229,
+      "id": "6Qqc3gL3oHE",
+      "title": "Intro To Systems Thinking",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 230,
+      "id": "9_WL0hoRA7s",
+      "title": "2C-B Trip Report - Experiencing Physical Death",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 231,
+      "id": "dn-pmRDauK8",
+      "title": "How To Get Started With Self Actualization - Over 40 Techniques",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 232,
+      "id": "uGqlCkuah94",
+      "title": "How To Deal With Loneliness - Especially While Self-Actualizing",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 233,
+      "id": "tOIf3pY9LqE",
+      "title": "Balancing Theory vs Practice",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 234,
+      "id": "gfS2k1iI5k8",
+      "title": "Leo's Solo Meditation Retreat - 90 Hours Of Nonstop Meditation In The Forest",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 235,
+      "id": "6tLZ2a1uafk",
+      "title": "Understanding Default Positions",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 236,
+      "id": "Eg1ebP4iFbA",
+      "title": "Leo's Super Healthy Vegetable Soup",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 237,
+      "id": "5IVEKz4jYmA",
+      "title": "The Highest Hero's Journey - What It Means To Be Real Hero",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 238,
+      "id": "AuLk-m3yphM",
+      "title": "Leo's Super Healthy Blueberry Smoothie",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 239,
+      "id": "5kzZdps9PG4",
+      "title": "True vs False Skepticism",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 240,
+      "id": "JGw8IoqBt-c",
+      "title": "The Big Picture Of Self-Actualization",
+      "status": "no-transcript"
+    },
+    {
+      "num": 241,
+      "id": "sSxtR4psOoQ",
+      "title": "Concentration vs Meditation - How To Develop Concentration",
+      "status": "no-transcript"
+    },
+    {
+      "num": 242,
+      "id": "wa-NAtBEMkA",
+      "title": "Contemplation - The Most Important Tool For Sages",
+      "status": "no-transcript"
+    },
+    {
+      "num": 243,
+      "id": "PM-5NFY1C3c",
+      "title": "Understanding How Paradigms Work",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 244,
+      "id": "4atDuXqr0y8",
+      "title": "AL-LAD Trip Report - A Powerful Tool For Consciousness Work",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 245,
+      "id": "TwuutU9yUGE",
+      "title": "Build Your Infrastructure For Success",
+      "status": "no-transcript"
+    },
+    {
+      "num": 246,
+      "id": "m7t75E2gCg8",
+      "title": "The Gallery Of Absolute Infinity",
+      "status": "no-transcript"
+    },
+    {
+      "num": 247,
+      "id": "vLIwNF_JTJg",
+      "title": "Dropping The Roles You Play",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 248,
+      "id": "a0B_StY__Bg",
+      "title": "The Role Of Balance In Personal Development",
+      "status": "no-transcript"
+    },
+    {
+      "num": 249,
+      "id": "JXz-C3HT_6Q",
+      "title": "The Launch Of Infinite Insights - Leo's Blog!",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 250,
+      "id": "TVPzXaHMifw",
+      "title": "How I Do Research & Develop Big Picture Understanding",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 251,
+      "id": "_APVC8AGt8g",
+      "title": "A Rant Against Naive Realism - Reality Is NOT Physical!",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 252,
+      "id": "iF1q76Eiio4",
+      "title": "How To Control Anger - Part 2 - Understanding Evil To Death",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 253,
+      "id": "zdA_8xjFcqc",
+      "title": "The Pre-mortem Technique - The Trick To Avoiding Project Failure",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 254,
+      "id": "_mqv0qQPElw",
+      "title": "Uncovering Your Childhood Vows - Unwire Your Neurotic Personality",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 255,
+      "id": "z2B_e24UJi8",
+      "title": "Becoming A Zen Devil - The Dangers Of Half-Assing Enlightenment",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 256,
+      "id": "iAE055eH7yQ",
+      "title": "Mystical Traditions Around The World - Nonduality Goes Cosmopolitan!",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 257,
+      "id": "z2wNbLO02Wg",
+      "title": "Becoming A Sage - A New Vision For Actualized.org & You!",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 258,
+      "id": "lRipeQ_lcN8",
+      "title": "How To Deal With Confusion",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 259,
+      "id": "bWSOl62memg",
+      "title": "Using 5-MeO-DMT To Become Enlightened - Interview With Martin Ball",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 260,
+      "id": "1Mpir4KE4qE",
+      "title": "Money Psychology - The Inner Game of Mastering Money",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 261,
+      "id": "TRgLWFzGodg",
+      "title": "A Rant Against Culture",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 262,
+      "id": "NAbh5E0v20g",
+      "title": "The Trap Of Projection, Especially Onto Teachers & Mentors",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 263,
+      "id": "v1yA9KbPzQ0",
+      "title": "How To Harness Your Intuition",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 264,
+      "id": "1FtVLnmuJzg",
+      "title": "The Mechanics Of Belief",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 265,
+      "id": "uZpIvU6ny_M",
+      "title": "The Dark Side Of Meditation",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 266,
+      "id": "Hg8JDHlkIrM",
+      "title": "Low Quality vs High Quality Consciousness",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 267,
+      "id": "rH1bfZ1p6sg",
+      "title": "5-MeO-DMT - The Magic Pill To Enlightenment & God",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 268,
+      "id": "4VNoe5tn3tg",
+      "title": "What Is God? - Leo Becomes Absolute Infinity (Aka God) - All Of Reality Explained",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 269,
+      "id": "2dYF6Lf144U",
+      "title": "What's Wrong With Ego?",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 270,
+      "id": "S3FE9_204Yg",
+      "title": "The 64 Most Fascinating Questions A Human Can Ask",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 271,
+      "id": "PYRg1fQYyzY",
+      "title": "How To Be A Man - Part 2 (Advanced Version)",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 272,
+      "id": "ypSinz7WB3I",
+      "title": "The Paradox Of Developing Self-Trust",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 273,
+      "id": "7LscnZCzdak",
+      "title": "Guided Meditation - The Next Level Of Meditation",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 274,
+      "id": "CuOIECQ5zag",
+      "title": "How To Use Psychedelics For Personal Development",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 275,
+      "id": "ypDRRcMKj7E",
+      "title": "The Amazing Power Of Psychedelics - Leo Does Magic Psilocybin Mushrooms!",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 276,
+      "id": "chROpiJaOcw",
+      "title": "The 3 Levels Of Personal Development Work",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 277,
+      "id": "5a9q6yPiwP0",
+      "title": "You're Not Happy Because You Don't Really Want To Be",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 278,
+      "id": "iwE4NhPv8aQ",
+      "title": "10 Important Things You Don't Know You Want",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 279,
+      "id": "ME50xt3ONuQ",
+      "title": "The Psychology Of Small Business Success - Top 5 Errors Of Aspiring Entrepreneurs",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 280,
+      "id": "Ie8olvmaZug",
+      "title": "Be F*cking Patient! - How To Deal With Lack Of Results",
+      "status": "no-transcript"
+    },
+    {
+      "num": 281,
+      "id": "qy_INVm_Pw0",
+      "title": "Awareness Alone Is Curative - How To Auto-Correct Unwanted Behaviors",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 282,
+      "id": "fXmG1x1ih1U",
+      "title": "Meditation For Beginners",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 283,
+      "id": "eg7us76XBEQ",
+      "title": "How To Stop Moralizing - Removing The SHOULDs From Your Life",
+      "status": "no-transcript"
+    },
+    {
+      "num": 284,
+      "id": "RLqFrF-QTCI",
+      "title": "A Rant Against Morality - Very Foundational",
+      "status": "no-transcript"
+    },
+    {
+      "num": 285,
+      "id": "cIeQ2a8WmTc",
+      "title": "How To Stop Being A Victim - Part 2 - What All Victims Fail To Understand",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 286,
+      "id": "XR7mjtoAdpM",
+      "title": "Lifestyle Minimalism - Renouncing Your Busy Stupid Life",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 287,
+      "id": "BEQTk75XFjU",
+      "title": "Grasping The Illusory Nature Of Thought",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 288,
+      "id": "Oq4NDMNDzSs",
+      "title": "Enlightenment Guided Inquiry - The Neti Neti Method",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 289,
+      "id": "8_E9KOBEmMw",
+      "title": "How Your Mind Distorts Reality - Needy vs Non-Needy Perception",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 290,
+      "id": "G5ZYV-IMIUU",
+      "title": "Overcoming Addiction - The Root Cause Of Every Addiction",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 291,
+      "id": "s_LoxHQWT5Q",
+      "title": "3 Step Formula To Be Ruthlessly Effective At Anything",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 292,
+      "id": "YfMqtrbjiMs",
+      "title": "The Benefits Of Enlightenment",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 293,
+      "id": "GcNGtZPPSS8",
+      "title": "The Power Of Self Acceptance - How To Stop Beating Yourself Up",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 294,
+      "id": "iaV6S45AD1w",
+      "title": "Why Rationality Is WRONG! - A Critique Of Rationalism",
+      "status": "no-transcript"
+    },
+    {
+      "num": 295,
+      "id": "4oVrMpvtU8c",
+      "title": "How To Be A Strategic Motherf*cker - The 7 Pillars Of Strategic Thinking",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 296,
+      "id": "WWs6GBwXnmw",
+      "title": "How To Stop Comparing Yourself To Others",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 297,
+      "id": "ijSng_X9soc",
+      "title": "Fake Growth vs Real Growth - What If You're Just Tricking Yourself?",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 298,
+      "id": "cpr-KFks6-c",
+      "title": "The Enlightened Self - A Description Of Your Existential Nature",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 299,
+      "id": "LuVAFapEs4g",
+      "title": "27 Qualities Of All Successful People",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 300,
+      "id": "jF_R7R1zz9Y",
+      "title": "The Most Important Commitment You Can Make + Huge Announcement",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 301,
+      "id": "y_bs-W_xON4",
+      "title": "The Ultimate Model Of Human Knowledge - All Knowledge Explained!",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 302,
+      "id": "q56Qkejx_FM",
+      "title": "A Rant Against The Pickup Community - Must Watch For All PUAs",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 303,
+      "id": "fecQUZ-ehKQ",
+      "title": "Free Will vs Determinism - Does Free Will Exist?",
+      "status": "no-transcript"
+    },
+    {
+      "num": 304,
+      "id": "ugvMqHkUO-0",
+      "title": "Understanding Awareness - The Staggering Depth Of Your Unawareness Revealed",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 305,
+      "id": "BF1t2T8VLI4",
+      "title": "The Challenges Of Making Bold Life Changes",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 306,
+      "id": "ulam38XpQG4",
+      "title": "How To Stop Judging Yourself",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 307,
+      "id": "JhV9f1l3H1A",
+      "title": "40 Signs That You Are Neurotic - Understanding Neurosis",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 308,
+      "id": "XulpS3cAkOM",
+      "title": "How You Lie - All Your Dirty, Sneaky Lies & Manipulations Exposed!",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 309,
+      "id": "z4YkMoysymY",
+      "title": "30 Ways Society Fucks You In The Ass",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 310,
+      "id": "jTK3kO0MopM",
+      "title": "Radical Openmindedness - How To Break Free Of Dogma & Beliefs",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 311,
+      "id": "l96TZeZGlDg",
+      "title": "How To Deal With Strong Negative Emotions",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 312,
+      "id": "OwgD1vmAawo",
+      "title": "How To Overcome Creative Blocks  & Writer's Block",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 313,
+      "id": "jo_3rvcUpJw",
+      "title": "A Vision For The Self Actualized Life - Get Yo Ass Inspired!",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 314,
+      "id": "wPUWdhHDKS4",
+      "title": "Mindfulness Meditation - A Complete Guide With Techniques & Examples",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 315,
+      "id": "GPPdWfoeGbs",
+      "title": "Curing Perfectionism - How To Stop Being A Perfectionist",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 316,
+      "id": "apOBPsAHxYU",
+      "title": "Advice For High School & College Students - The Keys To Mastering Life",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 317,
+      "id": "WY9JqrmAI4Q",
+      "title": "Avoiding Dysfunctional & Abusive Relationships - 30+ Red Flags",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 318,
+      "id": "Pv9Cs3FB2vQ",
+      "title": "How To Deal With Criticism, Trolls, and Haters",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 319,
+      "id": "jK1EqqHIOqw",
+      "title": "Contemplating Your Own Death - To Stay Motivated For Life",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 320,
+      "id": "EsLCVXYqUns",
+      "title": "How To Be Funny - Comprehensive Guide To Developing A Sense of Humor",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 321,
+      "id": "ayEoiU5MOg4",
+      "title": "One Simple Rule For Acing Life",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 322,
+      "id": "nCv416ofSGQ",
+      "title": "Being A Spiritual Seeker, Good or Bad?",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 323,
+      "id": "23aDNBvn_2g",
+      "title": "The Grand Model Of Psychological Evolution - Clare Graves & Spiral Dynamics",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 324,
+      "id": "cub6kY0oHZc",
+      "title": "Meditation On Steroids - How To Get The FASTEST Meditation Gains",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 325,
+      "id": "e4yipKfO8nA",
+      "title": "Meditation Techniques: Do Nothing - The Simplest Meditation Possible",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 326,
+      "id": "SmeDDN1_TSQ",
+      "title": "Masculinity vs Femininity - Psychology Of The Male & Female Mind",
+      "status": "no-transcript"
+    },
+    {
+      "num": 327,
+      "id": "ojC0HlclnW0",
+      "title": "Using Maslow's Hierarchy of Needs To Self-Actualize",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 328,
+      "id": "MZFty-eM6Rk",
+      "title": "Lower vs Higher Self - Understanding Your Two-Faced Nature",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 329,
+      "id": "QOsUx9a3UoU",
+      "title": "My Enlightenment Experience - Exactly How It Happened",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 330,
+      "id": "RiOZHpPd2v8",
+      "title": "How To Get Shit Done - The Inner Game Of Being A Results-Maker",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 331,
+      "id": "QkS1XKAoNqY",
+      "title": "How To Unleash Your Ambition - Must-Watch For Ambitious People",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 332,
+      "id": "QtUxnmneK50",
+      "title": "How To Create Your Dream Career - The Ultimate Life Purpose Course",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 333,
+      "id": "wh5hAUP68d8",
+      "title": "Science vs Religion - The Absurdity Revealed!",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 334,
+      "id": "FRUeG9wOaCs",
+      "title": "How To Meditate Deeper",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 335,
+      "id": "TyDoJThWvAw",
+      "title": "How To Stop Being A Workaholic",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 336,
+      "id": "I0GDMX6rixk",
+      "title": "How To Be A Leader - Leadership Secrets Revealed!",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 337,
+      "id": "GfqLdOgoB98",
+      "title": "How To Become Enlightened - The Exact Step By Step Process Revealed!",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 338,
+      "id": "rBq-EPieRwU",
+      "title": "How To Stop Backsliding - How To Stop Procrastinating",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 339,
+      "id": "IUO8J-igiuE",
+      "title": "Feminine vs Masculine Compassion",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 340,
+      "id": "0j7dwG1cXc4",
+      "title": "Understanding Emotions - Part 1",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 341,
+      "id": "325ka9OLMlo",
+      "title": "How To Have Amazing Sex - Part 2 - Increasing Intimacy & Dominance",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 342,
+      "id": "X_xZcD4veGc",
+      "title": "All Of Religion Explained In One Video",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 343,
+      "id": "wmGWDBUNuts",
+      "title": "Enlightenment FAQ - Part 2",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 344,
+      "id": "H0GbcGMar_E",
+      "title": "Enlightenment FAQ - Part 1 - All Your Questions Answered",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 345,
+      "id": "NXd8ojx_jOY",
+      "title": "Enlightenment - Part 3 - Creating An Experience Of No-Self",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 346,
+      "id": "B2OlnBbXI8U",
+      "title": "How To Have Amazing Sex (For Women) - Drive Your Man Wild In Bed",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 347,
+      "id": "Umt4ocxvnw0",
+      "title": "The Secret Curse Of Being Human + Bonus: A True Spiritual Exercise!",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 348,
+      "id": "IX-oeoOqaYU",
+      "title": "Spiritual Enlightenment - Part 2 - Understanding The Conceptualized Self",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 349,
+      "id": "oEtJcOZmxjI",
+      "title": "Paradoxes Of Personal Development",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 350,
+      "id": "pxyJiN4Z2Ds",
+      "title": "The Happiness Spectrum - The Best & Worst Kinds Of Happiness",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 351,
+      "id": "PgJmngka9io",
+      "title": "What To Do Next After Learning About Enlightenment",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 352,
+      "id": "Bsyplaii9p4",
+      "title": "Spiritual Enlightenment - The Most SHOCKING Truth You'll Ever Hear",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 353,
+      "id": "3hHqnzaF-TI",
+      "title": "Stop Demonizing People! - Why You Are Wrong For Calling Terrorists Evil",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 354,
+      "id": "2At8kzrwdNc",
+      "title": "What Is Karma? - The No-Bullshit Explanation Of How Karma Works",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 355,
+      "id": "nEJn03OSjFg",
+      "title": "Beware Of False Prophets - Stop Worshipping Human Personality",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 356,
+      "id": "i4EwtuSuF1E",
+      "title": "How To Study - The Keys To Acing School & College",
+      "status": "no-transcript"
+    },
+    {
+      "num": 357,
+      "id": "GfF7EpHXyDY",
+      "title": "Responsibility vs Blame - Why You Are 100% Responsible For Everything",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 358,
+      "id": "2gFLwkeJYB4",
+      "title": "How To Stop Being Jealous - Techniques To End Jealousy Forever",
+      "status": "no-transcript"
+    },
+    {
+      "num": 359,
+      "id": "6p6pKehb7Rk",
+      "title": "How To Practice Gratitude - Xmas 2014 Special :)",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 360,
+      "id": "yXGBEJCEJ6k",
+      "title": "The Truth About Passive Income",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 361,
+      "id": "KjLt5LUYZhw",
+      "title": "How To Have Amazing Sex - Part 1",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 362,
+      "id": "Jeh_RtukY9w",
+      "title": "Why The Most Successful People Don't Do Personal Development",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 363,
+      "id": "1MWR29_X4WE",
+      "title": "How To Deal With A Breakup",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 364,
+      "id": "mbkVw2Ppl98",
+      "title": "How To Deepen Your Love For Life - A Powerful Exercise",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 365,
+      "id": "CzAJhW1cfdw",
+      "title": "How To Stop Being Lazy - Solutions For Short-term & Long-term Laziness",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 366,
+      "id": "hodBy9Zri00",
+      "title": "How To Be An Attractive Man - Interview With Dating Coach, TrippAdvice",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 367,
+      "id": "dZt9U92m2fo",
+      "title": "The Biggest Thing You Should Fear - Halloween Special :D",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 368,
+      "id": "w4l_V32wMjI",
+      "title": "How To Manage Your Money Easily Using This Budget Template",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 369,
+      "id": "wirV265ZYSw",
+      "title": "How To Meditate - The No Bullshit Guide to Meditation",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 370,
+      "id": "te7tB0F_XRk",
+      "title": "Luck & Success - Is Luck Important For Being Successful?",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 371,
+      "id": "LIIUg7WjGKA",
+      "title": "How To Stop Watching TV - Why You Must Eliminate TV Right Now!",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 372,
+      "id": "jh6tGM3nVEw",
+      "title": "Leo's List of Top 140 Self-Help Books",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 373,
+      "id": "ll2DXQrVMp4",
+      "title": "How To Deal With Difficult & Toxic People",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 374,
+      "id": "K6GyCk8cIJ4",
+      "title": "Understanding The Authentic Self - Discovering Who You Really Are",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 375,
+      "id": "Wyct_8OL1Zg",
+      "title": "Why Women Fall For Assholes",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 376,
+      "id": "d37fXU8vUTw",
+      "title": "How Science Keeps You Stuck In Life - Exposing Problems With \"Scientific\" Thinking",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 377,
+      "id": "HZm4B4foybM",
+      "title": "How To Stop Caring What People Think Of You",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 378,
+      "id": "sem-8FpR10U",
+      "title": "How To Deal With Depression - The Key To Breaking Out Of Depression",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 379,
+      "id": "PFfZ1vTYCMg",
+      "title": "Self Discipline vs Freedom - How To Create More Freedom In Your Life",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 380,
+      "id": "puZeBmm26W8",
+      "title": "Spirituality vs Religion - The No-Bullshit Guide To Spirituality",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 381,
+      "id": "5rey8B-yu5Y",
+      "title": "How To Stop Being A Victim - The #1 Reason You Are Stuck In Life",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 382,
+      "id": "a8tnN7vs4E4",
+      "title": "Negative Visualization - An Ancient Stoic Technique For Creating Happiness",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 383,
+      "id": "hYZmK46--Mc",
+      "title": "How To Master & Control Your Emotions",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 384,
+      "id": "9GV7-Dge5G0",
+      "title": "How To Follow Advice Without Betraying Yourself",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 385,
+      "id": "KV7dHrc_r9g",
+      "title": "Why Men Cheat - And 8 Ways To Keep Your Man Loyal",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 386,
+      "id": "4MCnc2Ip8g8",
+      "title": "Why Women Use You For Money - And How To Never Get Used Again",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 387,
+      "id": "v99YFYPCqU8",
+      "title": "Self Confidence - The Two Essential Avenues For Building Confidence",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 388,
+      "id": "q89nSsjWjFs",
+      "title": "Visualization - A Powerful Technique For Reprogramming Your Subconscious Mind",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 389,
+      "id": "4lef8aZnvyU",
+      "title": "Low Self Esteem In Women - Why Women Have Lower Self-Esteem Than Men",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 390,
+      "id": "XCc6-qr0Gww",
+      "title": "Communication Skills - The 6 Keys Of Powerful Communication",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 391,
+      "id": "6P_Kvx5uC2I",
+      "title": "Good Vs Evil - Why Evil Doesn't Actually Exist",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 392,
+      "id": "S1rwCWDqtCU",
+      "title": "How To Make Friends - 4 Sticking-Points That Limit Your Ability To Make Friends",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 393,
+      "id": "HQtpxc1ZJl0",
+      "title": "Openmindedness - A Huge Overlooked Obstacle To Self Improvement",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 394,
+      "id": "odQV4oODum0",
+      "title": "How To Forgive Someone - The One Trick That Makes Forgiveness Easy",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 395,
+      "id": "SNbcCu1M4c4",
+      "title": "How To Get A Girlfriend - The Ultimate Guide For Landing A Hot Girlfriend",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 396,
+      "id": "a2stUIH3BnI",
+      "title": "Bad Habits - A Live Exercise For Dropping Any Bad Habit For Good",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 397,
+      "id": "iTPoxoQSb4o",
+      "title": "Bad Relationships - How To Break Your Cycle Of Painful Relationships",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 398,
+      "id": "6SpN4b0d1SA",
+      "title": "Goal Setting - How To Set Goals Effectively",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 399,
+      "id": "dSfZgygLjiw",
+      "title": "Stress Management - Permanent Solutions For Stress Reduction",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 400,
+      "id": "2_18oWkVq08",
+      "title": "Positive Attitude - The 3 Pillars To Cultivating Positivity",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 401,
+      "id": "7FmAHDECFsY",
+      "title": "How To Make A Girl Squirt - Give Your Girl An Explosive Orgasm",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 402,
+      "id": "JoRlb6xcymA",
+      "title": "What Women Want In A Man - 5 Factors That Hook Women Like Crack",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 403,
+      "id": "zxMTekwz1HM",
+      "title": "Whatever Doesn't Kill You Makes You Stronger - True or False?",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 404,
+      "id": "RCrM6jC-fXg",
+      "title": "Profound Quotes #003 - \"Children Want Candy; The Intelligent Want Self-Control\" - Rumi",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 405,
+      "id": "6RaA5eQlCsU",
+      "title": "Judgment - How You Ruin Your Own Happiness",
+      "status": "done",
+      "processed": "2026-04-30"
+    },
+    {
+      "num": 406,
+      "id": "FeLpvgAVtU8",
+      "title": "Self Esteem - Understanding & Fixing Low Self-Esteem",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 407,
+      "id": "LOPqhcH7dDc",
+      "title": "How To Become A Millionaire - The Truth No One Tells You",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 408,
+      "id": "Ixc0PkkYkHA",
+      "title": "Relationship Advice - The Master Plan For Creating An Amazing Relationship",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 409,
+      "id": "CKpY8ksL1UE",
+      "title": "Staying Hungry - How To Use Pain For Growth",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 410,
+      "id": "glOobHQndJA",
+      "title": "How Your Subconscious Holds You Back From Greatness",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 411,
+      "id": "iIVM772cL6k",
+      "title": "How To Start A Business - Bootstrapping A Successful Business",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 412,
+      "id": "8EYYp-sx1AU",
+      "title": "Life Coaching - The Powerful Benefits Of Working With A Life Coach",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 413,
+      "id": "FoYs1YqQI7w",
+      "title": "The Power Of Routines - How Your Daily Routine Holds You Back From Your Dreams",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 414,
+      "id": "svS_P7mBhf4",
+      "title": "True Value - How To Create Success Out Of Nowhere",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 415,
+      "id": "w1JzhhDMcpw",
+      "title": "How To Be Yourself - Become Your Authentic Self Right Now",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 416,
+      "id": "M3szqVVeNzw",
+      "title": "Self Help - How Self-Help Can Revolutionize Your Entire Life",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 417,
+      "id": "GC7KNAyDt4I",
+      "title": "Id, Ego, Superego - Understanding An Old School Psychology Concept",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 418,
+      "id": "JAXrO2NiX_w",
+      "title": "How To Feel Good - Re-Designing Your Life To Feel Amazing",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 419,
+      "id": "ufNOWvcfrE4",
+      "title": "How To Love Yourself - How To Like Who You Are Right Now",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 420,
+      "id": "NwLGHCZTQt4",
+      "title": "Personal Development Plan - The Essentials Of Getting Results",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 421,
+      "id": "44wc_gg5SI0",
+      "title": "The Secret - The Truth They Didn't Tell You",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 422,
+      "id": "PKlXy11kipM",
+      "title": "How To Use Technology To Super-Charge Your Personal Growth",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 423,
+      "id": "awCmTiN9S_U",
+      "title": "How To Never Quit - The Key To Reframing The Toughtest Obstacles",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 424,
+      "id": "3zP_y3M0ylM",
+      "title": "Cause & Purpose - What Are You Willing To Bleed For?",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 425,
+      "id": "MJJj0BBrWOE",
+      "title": "Emotional Intelligence - Why Your EQ Is More Important Than Your IQ",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 426,
+      "id": "BPAMbZa64u8",
+      "title": "How To Motivate Yourself - The Trick Behind Lasting Self-Motivation",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 427,
+      "id": "lpPKRFh-yCc",
+      "title": "Critical Thinking - Use Independent Thinking To Build A Powerful Life",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 428,
+      "id": "w3vgN_cqrIA",
+      "title": "How To Find Your Passion - Why You Have No Passion & How To Fix It",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 429,
+      "id": "cFYl8TVNwg8",
+      "title": "Letting Go Of The Past - How To Get Over The Past In Minutes",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 430,
+      "id": "xZmnhdw3uuc",
+      "title": "Optimism - How To Become Optimisitic Right Now",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 431,
+      "id": "4JcOrC9LH9w",
+      "title": "Best Supplements - What You Must Know About Supplementation",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 432,
+      "id": "W1-4UsQVgkM",
+      "title": "Dream Life - What It Takes To Create An Extraordinary Life",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 433,
+      "id": "XF77426aWzY",
+      "title": "Healthy Relationships - What You MUST Know To Sustain A Great Relationship",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 434,
+      "id": "GtJ5ColgEm4",
+      "title": "Positive Thinking - The Key To Thinking Positive",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 435,
+      "id": "X6YM_WUP5ik",
+      "title": "How To Be A Man - The Deep Core Of Being Masculine",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 436,
+      "id": "LD3UozF8Hn0",
+      "title": "How To Eat Healthy - Create A Super Healthy Meal In 15 Minutes",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 437,
+      "id": "-yWKZ7I1zvw",
+      "title": "Introvert vs Extrovert - A Deep Understanding Of Introverts And Extroverts",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 438,
+      "id": "b9dazwomA1c",
+      "title": "How To Stay Committed To A Cause",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 439,
+      "id": "UTjcsXnxPBQ",
+      "title": "Self Image - The Amazing, Absolute Key To All Personal Growth",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 440,
+      "id": "5WSlkzz2_Bk",
+      "title": "What Is Happiness? - An Extremely Advanced Definition Of Happiness",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 441,
+      "id": "l8ufDXBACdo",
+      "title": "Profound Quotes #002 - \"Specialization Is For Insects\"",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 442,
+      "id": "01Pfs3VuizM",
+      "title": "Mindfulness - How To Actually Practice Mindfulness & Conquer Your Emotions",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 443,
+      "id": "-fiuWSZaoU4",
+      "title": "Sensitivity - Why Personal Development Is Impossible For You Right Now",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 444,
+      "id": "fV7uzssqIYo",
+      "title": "How To Become Rich - The Number One Reason You're Not Already Rich",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 445,
+      "id": "v_poNe3gDEM",
+      "title": "Redefining Philosophy - How To Become A Jedi Master",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 446,
+      "id": "8CAFmfjPOIw",
+      "title": "Willpower - Scientifically Proven Techniques to Increase Willpower",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 447,
+      "id": "wuoNDHTW9ak",
+      "title": "True Vision - I Reveal My Life Purpose Until You Can Feel It",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 448,
+      "id": "IrpDvA8ud9Q",
+      "title": "Profound Quotes #001 - \"All Of Humanity's Problems Stem From Man's...\"",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 449,
+      "id": "ZulzVTr0UCQ",
+      "title": "Overcoming Fear - How To Slay Your Greatest Demon",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 450,
+      "id": "XlfKNqoL8JY",
+      "title": "How To Be Attractive - The Ultimate Attraction Strategy",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 451,
+      "id": "3I7qR4NO8Ag",
+      "title": "How To Relieve Stress - Scientifically Proven Stress Relief Techniques",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 452,
+      "id": "8egbebwgMp4",
+      "title": "How to Be Happy in Life - Happiness Bottlenecks",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 453,
+      "id": "lw_2qDIeV8s",
+      "title": "Self Control - How To Develop Self-Control To Create An Amazing Life",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 454,
+      "id": "yZVXzrgdqeE",
+      "title": "Positive Psychology - What Is It & How It Can Transform Your Life",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 455,
+      "id": "NldvgPxMFVw",
+      "title": "Overcoming Adversity - How To Handle The Most Horrific Life Challenges Ever",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 456,
+      "id": "vH5xqaAEWIs",
+      "title": "How To Stay Healthy - The Psychology of Maintaining Consistent, Effortless Health",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 457,
+      "id": "PpMp0VUKlBU",
+      "title": "Peak Performance - How To Hit and Maintain Consistent Peak Performance In Life",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 458,
+      "id": "6M8GzdGTlFs",
+      "title": "What Should I Do With My Life - How To Find Your Passion For Life",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 459,
+      "id": "xCoNh78UC4E",
+      "title": "Positive Affirmations - The Tricks of Using Affirmations to Transform Your Life",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 460,
+      "id": "8kV8YO4YC6w",
+      "title": "Self Actualization - The Most Inspiring Self-Help Concept Of All Time",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 461,
+      "id": "WZmUMRAN-qc",
+      "title": "How To Be More Confident - A Step-by-Step Process for Becoming Truly Confident",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 462,
+      "id": "W8i7uc88628",
+      "title": "How To Stop Procrastinating - A Step-by-Step Process For Busting The Worst of Procrastination",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 463,
+      "id": "QwAfa0Ltreo",
+      "title": "Self Expression - How To Express Yourself & Find Your Authentic Creative Voice",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 464,
+      "id": "b295OBuDmyM",
+      "title": "The Law Of Attraction - How It Really Works & How To Use It",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 465,
+      "id": "HAPBunVnXuA",
+      "title": "How To Get Motivated - Creating a Consistent Drive for High Performance",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 466,
+      "id": "S-nXMLyciUI",
+      "title": "Personal Development Blueprint - Information Intake",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 467,
+      "id": "xqLIXz0k_qM",
+      "title": "What Is Ego - How Your Ego Dictates Your Entire Life",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 468,
+      "id": "xsnnbmyeCFw",
+      "title": "The Subconscious Mind - Using Your Subconscious Mind to Create Massive Success",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 469,
+      "id": "KrL-3s-UMjA",
+      "title": "SMART Goal Setting - How to Set Extremely Effective Goals",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 470,
+      "id": "cuEpqXH-nek",
+      "title": "Personal Power - How Personal Power Creates Success",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 471,
+      "id": "hLJygQbyzWI",
+      "title": "How To Change The World - What It Takes To Have Massive Social Impact",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 472,
+      "id": "Fyq8pT8IpCQ",
+      "title": "How To Stop Worrying - The Fundamentals of Eliminating Worry",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 473,
+      "id": "_H0OZRT_Q0A",
+      "title": "How To Increase Your Results From Self-Help Products by 10x",
+      "status": "done",
+      "processed": "2026-04-28"
+    },
+    {
+      "num": 474,
+      "id": "mljl8hTpWJI",
+      "title": "Productivity Strategies - Are You Prolific?",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 475,
+      "id": "rkQab5RT2dc",
+      "title": "How To Stay Motivated To Lose Weight - The Psychology of Weight Loss Success",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 476,
+      "id": "jETH9SI2zNQ",
+      "title": "Resume Writing Tips - The Secret Mindset For Writing a Perfect Resume",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 477,
+      "id": "TCERYy48LOk",
+      "title": "How To Stay Focused - The Key To Being Extremely Productive & Clear-Minded",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 478,
+      "id": "vooLCHuutlc",
+      "title": "How To Change Careers - Dealing With The Fear & Transitioning Smart",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 479,
+      "id": "oN8-Np8zLfw",
+      "title": "Fear Of Failure - Why We Have It & How To Deal With It",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 480,
+      "id": "4bwsN0fPmds",
+      "title": "How To Change Your Life - Making BIG Life Changes Actually Stick",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 481,
+      "id": "J3fd5xbExb4",
+      "title": "Fear Of Public Speaking - The One Key To Overcoming It Forever",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 482,
+      "id": "MDnPCLnNfhg",
+      "title": "How To Feel Happy - Scientifically Proven Ways of Creating Lasting Happiness",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 483,
+      "id": "LWbxkoe1w0g",
+      "title": "How To Succeed In Life - The 6 Key Elements of Phenomenal Success",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 484,
+      "id": "mggupbkTmWc",
+      "title": "Negative Thoughts - The Origin Of Negative Thinking & How To Eliminate It Forever",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 485,
+      "id": "4CBAtPmQMxQ",
+      "title": "How To Motivate Employees - Creating Ultra-Productive Workers",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 486,
+      "id": "aLVuKlz_7nM",
+      "title": "What Is The Purpose Of Life? - Use Purpose to Achieve Massive Success",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 487,
+      "id": "hMIRR_vT0Xc",
+      "title": "How To Overcome Shyness - Transform Yourself Into An Extrovert",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 488,
+      "id": "xRAZFzEx1d8",
+      "title": "Benefits of Meditation - Top Reasons To Start Meditating Right Now",
+      "status": "done",
+      "processed": "2026-04-29"
+    },
+    {
+      "num": 489,
+      "id": "ZY0Ljnp2oOg",
+      "title": "How To Become A Life Coach - Every Part of the Process Revealed in Detail",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 490,
+      "id": "0ayEMBYunwo",
+      "title": "How To Make More Money - Increase Your Income In Career or Business",
+      "status": "no-transcript"
+    },
+    {
+      "num": 491,
+      "id": "aIQsmKtTpW0",
+      "title": "How To Make A Girl Fall In Love With You - What Girls Really Want",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 492,
+      "id": "LsAWsrDJ7PA",
+      "title": "How To Get More Energy - An Approach Nobody Ever Talks About",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 493,
+      "id": "MJa_d9A3v3w",
+      "title": "How To Become Successful - The Secrets That Everyone Overlooks",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 494,
+      "id": "y7DXX6_RBz8",
+      "title": "Personal Development Blueprint - Meditation",
+      "status": "done",
+      "processed": "2026-04-29"
+    },
+    {
+      "num": 495,
+      "id": "8Qro7AXGyb0",
+      "title": "How to Do Real Personal Development",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 496,
+      "id": "vQpCvRQbLV4",
+      "title": "How to Make Your Life Extraordinary - Actualized.org",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 497,
+      "id": "YB1hA1ea6GE",
+      "title": "Personal Development Blueprint - Eliminate Addictions",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 498,
+      "id": "f7NTB_Eq2S8",
+      "title": "Personal Development Blueprint - Top 5 Feelings",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 499,
+      "id": "zBrBPoOjF-Y",
+      "title": "Personal Development Blueprint - Charged Life",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 500,
+      "id": "AGCkMX_y3RQ",
+      "title": "Personal Development Blueprint - Mission Statement",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 501,
+      "id": "6NZyfjjZQVg",
+      "title": "Personal Development - Professional vs Hobbiest",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 502,
+      "id": "AdM0bhoy3IU",
+      "title": "Happiness & Success - Should You Work on Strengths or Weaknesses?",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 503,
+      "id": "iUPR_3qgypU",
+      "title": "Create an Exciting Life - Your 5 Proudest Moments Exercise",
+      "status": "done",
+      "processed": "2026-05-01"
+    },
+    {
+      "num": 504,
+      "id": "jOCfE0ZL0Xw",
+      "title": "Personal Development - Tips About How to Give Advice",
+      "status": "done",
+      "processed": "2026-04-29"
+    },
+    {
+      "num": 505,
+      "id": "a2xoTVAe7xU",
+      "title": "Personal Development - How Your Mind is Like a Rider Atop an Elephant",
+      "status": "done",
+      "processed": "2026-04-29"
+    }
+  ]
+}

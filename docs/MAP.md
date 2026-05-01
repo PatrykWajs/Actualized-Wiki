@@ -7,8 +7,12 @@ title: Knowledge Map - All Videos
 All 505 Actualized.org videos in chronological order (oldest first).
 
 <!-- Videos appended below as they are processed -->
+- [Mastery Part 1](Episodes/001 - Mastery Part 1/summary.md) — [▶](https://www.youtube.com/watch?v=_874QVgwvEk)
+- [How to Invest In Yourself](Episodes/002 - How to Invest In Yourself/summary.md) — [▶](https://www.youtube.com/watch?v=C1QYF5WYzCo)
+- [Why Life Coaching Works](Episodes/003 - Why Life Coaching Works/summary.md) — [▶](https://www.youtube.com/watch?v=8cbtMhHpLC8)
 - [Be Different to Be Successful](Episodes/004 - Be Different to Be Successful/summary.md) — [▶](https://www.youtube.com/watch?v=mlIYVsuIofs)
 - [Get Coached](Episodes/005 - Get Coached/summary.md) — [▶](https://www.youtube.com/watch?v=ZS3sOfs5jBY)
+- [Inner Game of Career Development](Episodes/006 - Inner Game of Career Development/summary.md) — [▶](https://www.youtube.com/watch?v=mltXbRgFlOo)
 - [The Most Interesting Problem in Philosophy and Science](Episodes/007 - The Most Interesting Problem in Philosophy and Science/summary.md) — [▶](https://www.youtube.com/watch?v=JL3tHS7v334)
 - [How I Lost 65 Pounds in 5 Months](Episodes/008 - How I Lost 65 Pounds in 5 Months/summary.md) — [▶](https://www.youtube.com/watch?v=pYVjxSopKzw)
 - [Mastery](Episodes/010 - Mastery/summary.md) — [▶](https://www.youtube.com/watch?v=jymhbbZiL6A)

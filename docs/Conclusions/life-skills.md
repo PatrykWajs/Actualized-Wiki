@@ -2,11 +2,17 @@
 
 Life is a skill-set, not a lottery. Leo covers the practical competencies that separate people who thrive from people who struggle — communication, leadership, learning, critical thinking, social intelligence, and navigating the real world. These episodes are dense with actionable frameworks.
 
-**127 episodes** in this category.
+**128 episodes** in this category.
 
 ---
 
 ## Key Learnings & Conclusions
+
+### [Mastery Part 1](../Episodes/001 - Mastery Part 1/summary.md)
+
+This is Leo's first video on the concept of mastery, drawing on George Leonard's classic book *Mastery*. Leo argues that modern culture has lost its appreciation for long-term skill development, replacing it with a "magic pill" mentality that chases quick results.
+
+[▶ Watch](https://www.youtube.com/watch?v=_874QVgwvEk)
 
 ### [The Most Interesting Problem in Philosophy and Science](../Episodes/007 - The Most Interesting Problem in Philosophy and Science/summary.md)
 

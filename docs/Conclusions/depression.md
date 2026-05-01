@@ -2,11 +2,17 @@
 
 Depression, loneliness, and mental suffering are not character flaws — they're signals. Leo addresses the root causes of depression, addiction, and psychological suffering, going deeper than surface-level therapy to explain what's actually happening and what genuine healing looks like.
 
-**32 episodes** in this category.
+**33 episodes** in this category.
 
 ---
 
 ## Key Learnings & Conclusions
+
+### [Why Life Coaching Works](../Episodes/003 - Why Life Coaching Works/summary.md)
+
+Leo explains the mechanics of why life coaching works — and why it produces different results than therapy, consulting, or mentoring. The distinctive feature of coaching is that coaches ask questions rather than give advice, trusting that clients already have the answers within themselves.
+
+[▶ Watch](https://www.youtube.com/watch?v=8cbtMhHpLC8)
 
 ### [Satisfaction Meditation - How To Make Meditation Enjoyable!](../Episodes/056 - Satisfaction Meditation - How To Make Meditation Enjoyable!/summary.md)
 

@@ -46,7 +46,7 @@ Not affiliated with Actualized.org or Leo Gura. Built for personal research use.
 
     ---
 
-    Aggregated findings by topic across all episodes. 15 life categories distilled into actionable insights.
+    Aggregated findings by topic across all episodes. 22 life categories distilled into actionable insights.
 
     [:octicons-arrow-right-24: Browse Topics](Conclusions/index.md)
 
@@ -68,19 +68,19 @@ Not affiliated with Actualized.org or Leo Gura. Built for personal research use.
 
 -   **Philosophy & Consciousness**
 
-    [Foundational](Conclusions/foundational.md) · [Enlightenment & Meditation](Conclusions/enlightenment-and-meditation.md) · [Psychedelics](Conclusions/psychedelics.md)
+    [Foundational](Conclusions/foundational.md) · [Consciousness & Enlightenment](Conclusions/consciousness-and-enlightenment.md) · [Enlightenment & Meditation](Conclusions/enlightenment-and-meditation.md) · [Psychedelics](Conclusions/psychedelics.md) · [Philosophy & Epistemology](Conclusions/philosophy-and-epistemology.md)
+
+-   **Self & Growth**
+
+    [Self-Actualization](Conclusions/self-actualization-and-personal-development.md) · [Life Purpose & Career](Conclusions/life-purpose-and-career.md) · [Spiral Dynamics](Conclusions/spiral-dynamics.md) · [Motivation](Conclusions/motivation.md) · [Productivity](Conclusions/productivity.md) · [Life Skills](Conclusions/life-skills.md)
 
 -   **Inner World**
 
-    [Happiness](Conclusions/happiness.md) · [Emotions](Conclusions/emotions.md) · [Confidence](Conclusions/confidence.md) · [Depression](Conclusions/depression.md)
-
--   **Performance & Growth**
-
-    [Motivation](Conclusions/motivation.md) · [Productivity](Conclusions/productivity.md) · [Life Skills](Conclusions/life-skills.md)
+    [Psychology & Emotions](Conclusions/psychology-and-emotions.md) · [Happiness](Conclusions/happiness.md) · [Emotions](Conclusions/emotions.md) · [Confidence](Conclusions/confidence.md) · [Depression](Conclusions/depression.md)
 
 -   **External World**
 
-    [Money](Conclusions/money.md) · [Dating & Relationships](Conclusions/dating-and-relationships.md) · [Sex](Conclusions/sex.md) · [Health & Fitness](Conclusions/health-and-fitness.md) · [Miscellaneous](Conclusions/miscellaneous.md)
+    [Money](Conclusions/money.md) · [Dating & Relationships](Conclusions/dating-and-relationships.md) · [Sex](Conclusions/sex.md) · [Health & Fitness](Conclusions/health-and-fitness.md) · [Society, Politics & Culture](Conclusions/society-politics-and-culture.md) · [Miscellaneous](Conclusions/miscellaneous.md)
 
 </div>
 
@@ -93,7 +93,7 @@ Not affiliated with Actualized.org or Leo Gura. Built for personal research use.
 | **Total Episodes** | 505 |
 | **Processed Episodes** | 484 |
 | **No Transcript** | 21 |
-| **Topic Categories** | 15 |
+| **Topic Categories** | 22 |
 | **Last Updated** | May 2026 |
 
 ---
@@ -106,6 +106,6 @@ Leo Gura has published over 500 videos on Actualized.org covering consciousness,
 
 - **Structured summaries** — Overview, Key Insights, Core Concepts, and Practical Takeaways for each episode
 - **Full transcripts** — complete text of every episode (search-excluded to keep the index fast)
-- **Topic Conclusions** — cross-episode synthesis organized into 15 life categories
+- **Topic Conclusions** — cross-episode synthesis organized into 22 life categories
 
 All content is for personal use only. For the official Actualized.org content, visit [actualized.org](https://www.actualized.org).

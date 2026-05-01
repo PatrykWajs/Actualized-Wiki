@@ -8,6 +8,7 @@ repo_name: PatrykWajs/Actualized-Wiki
 
 theme:
   name: material
+  custom_dir: overrides
   palette:
     - scheme: slate
       primary: black
@@ -75,6 +76,7 @@ markdown_extensions:
 nav:
   - Home: index.md
   - All Episodes: MAP.md
+  - Guests: GUESTS.md
   - Conclusions:
       - Overview: Conclusions/index.md
       - Foundational: Conclusions/foundational.md
@@ -92,3 +94,4 @@ nav:
       - Depression: Conclusions/depression.md
       - Life Skills: Conclusions/life-skills.md
       - Miscellaneous: Conclusions/miscellaneous.md
+  - Episodes: Episodes/

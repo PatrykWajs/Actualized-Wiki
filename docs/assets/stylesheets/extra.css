@@ -1,0 +1,88 @@
+/* Actualized.org Wiki — dark cosmic theme */
+
+/* True black background (slate scheme default is dark gray) */
+[data-md-color-scheme="slate"] {
+  --md-default-bg-color: #000000;
+  --md-default-bg-color--light: #0a0a0a;
+  --md-default-bg-color--lighter: #111111;
+  --md-default-bg-color--lightest: #1a1a1a;
+  --md-code-bg-color: #0d0d0d;
+}
+
+/* Blue-indigo accent glow on links */
+[data-md-color-scheme="slate"] .md-typeset a {
+  color: #7986CB;
+}
+
+[data-md-color-scheme="slate"] .md-typeset a:hover {
+  color: #9FA8DA;
+  text-shadow: 0 0 8px rgba(121, 134, 203, 0.4);
+}
+
+/* Nav header — pure black */
+.md-header {
+  background-color: #000000;
+  box-shadow: 0 1px 0 rgba(121, 134, 203, 0.2);
+}
+
+/* Tab bar */
+.md-tabs {
+  background-color: #050505;
+  border-bottom: 1px solid rgba(121, 134, 203, 0.15);
+}
+
+/* Sidebar active link */
+[data-md-color-scheme="slate"] .md-nav__link--active {
+  color: #7986CB;
+}
+
+[data-md-color-scheme="slate"] .md-nav__link:hover {
+  color: #9FA8DA;
+}
+
+/* Search bar */
+[data-md-color-scheme="slate"] .md-search__form {
+  background-color: #111111;
+  border: 1px solid rgba(121, 134, 203, 0.2);
+}
+
+/* Max content width */
+.md-grid {
+  max-width: 1280px;
+}
+
+/* Card grid */
+.grid.cards > ul {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1rem;
+}
+
+.grid.cards > ul > li {
+  border: 1px solid rgba(121, 134, 203, 0.2);
+  border-radius: 8px;
+  padding: 1.2rem;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.grid.cards > ul > li:hover {
+  border-color: #7986CB;
+  box-shadow: 0 4px 20px rgba(121, 134, 203, 0.15);
+}
+
+/* Episode entries in Conclusions files */
+.md-content h3 {
+  border-left: 3px solid #7986CB;
+  padding-left: 0.8rem;
+  margin-top: 2rem;
+}
+
+/* Admonitions with indigo tint */
+[data-md-color-scheme="slate"] .md-typeset .admonition {
+  border-color: rgba(121, 134, 203, 0.3);
+}
+
+/* Footer */
+[data-md-color-scheme="slate"] .md-footer {
+  background-color: #000000;
+}

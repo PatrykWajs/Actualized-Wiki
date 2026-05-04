@@ -172,3 +172,9 @@ Leo introduces his philosophy on personal development, emphasizing that real pro
 This video addresses the critical importance of identifying and eliminating addictive behaviors that drain your energy and prevent personal fulfillment. Leo argues that addictions function as emotional crutches masking deeper life problems, and that eliminating them is essential for living an exciting, purpose-driven life and reaching your full potential.
 
 [▶ Watch](https://www.youtube.com/watch?v=YB1hA1ea6GE)
+
+### [The Ultimate Guide To Happiness - How Happiness Works](../Episodes/508 - The Ultimate Guide To Happiness - How Happiness Works/summary.md)
+
+This comprehensive guide explores what actually makes people happy versus what culture falsely promises will. Leo argues that true happiness comes not from chasing pleasure, material success, or unconditional spiritual ideals, but from living virtuously, developing character, and building a life aligned with your authentic values and personality type.
+
+[▶ Watch](https://www.youtube.com/watch?v=lbOC_tYRNoE)

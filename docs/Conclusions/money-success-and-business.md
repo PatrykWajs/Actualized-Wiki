@@ -190,3 +190,9 @@ Leo introduces his philosophy on personal development, emphasizing that real pro
 This foundational Actualized.org video challenges viewers to move beyond mediocrity and design an extraordinary life built on purpose, vision, and creative contribution. Leo argues that true fulfillment comes not from external success alone, but from identifying a compelling vision greater than yourself and dedicating yourself to realizing it—a path that requires understanding both the strategic "how-to" and the psychological inner game necessary for sustained engagement and growth.
 
 [▶ Watch](https://www.youtube.com/watch?v=vQpCvRQbLV4)
+
+### [Why Andrew Tate's Man-Philosophy Cannot Work](../Episodes/506 - Why Andrew Tate's Man-Philosophy Cannot Work/summary.md)
+
+Leo Gura provides a comprehensive critique of Andrew Tate's philosophy and business practices, arguing that while Tate appears appealing to young men seeking success with women and money, his teachings are fundamentally built on sociopathic, unethical foundations that guarantee failure in creating genuine happiness and fulfilling relationships. Rather than demonizing Tate legally, Leo examines the deeper philosophical flaws that make his approach toxic and ultimately self-destructive for followers.
+
+[▶ Watch](https://www.youtube.com/watch?v=VFFBtnQLCk4)

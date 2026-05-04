@@ -1,7 +1,7 @@
 {
-  "total": 505,
-  "last_updated": "2026-05-01",
-  "note": "Channel reports 535 videos; 505 scraped (remainder are likely Shorts/private). Sorted oldest-first.",
+  "total": 525,
+  "last_updated": "2026-05-04",
+  "note": "Channel reports 535 videos; 505 scraped (remainder are likely Shorts/private). Sorted oldest-first. | 20 new videos added 2026-05-02 (range: 2023-01 to 2026-03).",
   "videos": [
     {
       "num": 1,
@@ -3516,6 +3516,155 @@
       "title": "Personal Development - How Your Mind is Like a Rider Atop an Elephant",
       "status": "done",
       "processed": "2026-04-29"
+    },
+    {
+      "num": 506,
+      "id": "VFFBtnQLCk4",
+      "title": "Why Andrew Tate's Man-Philosophy Cannot Work",
+      "status": "done",
+      "upload_date": "20230115",
+      "processed": "2026-05-04"
+    },
+    {
+      "num": 507,
+      "id": "7rQWWfHsgTU",
+      "title": "What Is Insight? - How To Become More Insightful",
+      "status": "done",
+      "upload_date": "20230129",
+      "processed": "2026-05-04"
+    },
+    {
+      "num": 508,
+      "id": "lbOC_tYRNoE",
+      "title": "The Ultimate Guide To Happiness - How Happiness Works",
+      "status": "done",
+      "upload_date": "20230315",
+      "processed": "2026-05-04"
+    },
+    {
+      "num": 509,
+      "id": "qQMQe-BD-Us",
+      "title": "Understanding Gaslighting - An Advanced Explanation",
+      "status": "done",
+      "upload_date": "20230325",
+      "processed": "2026-05-04"
+    },
+    {
+      "num": 510,
+      "id": "JXTO0FtsYXs",
+      "title": "What Is Maturity? - How and Why To Develop Maturity",
+      "status": "done",
+      "upload_date": "20230611",
+      "processed": "2026-05-04"
+    },
+    {
+      "num": 511,
+      "id": "v3TDLSwHugI",
+      "title": "250 Traps Of Life - The Psychology Of Traps",
+      "status": "done",
+      "upload_date": "20240512",
+      "processed": "2026-05-04"
+    },
+    {
+      "num": 512,
+      "id": "ClZ9B_V63Y4",
+      "title": "The Psychology Of Being Wrong",
+      "status": "done",
+      "upload_date": "20240527",
+      "processed": "2026-05-04"
+    },
+    {
+      "num": 513,
+      "id": "421RyqJ5__4",
+      "title": "The Ultimate Guide To Post-Modernism - Part 1",
+      "status": "done",
+      "upload_date": "20240902",
+      "processed": "2026-05-04"
+    },
+    {
+      "num": 514,
+      "id": "d3B93rTcI6U",
+      "title": "How To Distinguish Lower vs Higher Perspectives - Part 1",
+      "status": "done",
+      "upload_date": "20250111",
+      "processed": "2026-05-04"
+    },
+    {
+      "num": 515,
+      "id": "TP6-j_f4p4Q",
+      "title": "The Ultimate Guide To Post-Modernism - Part 2",
+      "status": "pending",
+      "upload_date": "20250126"
+    },
+    {
+      "num": 516,
+      "id": "zL9dnDksZM8",
+      "title": "Top Proofs For The Existence Of God",
+      "status": "pending",
+      "upload_date": "20250308"
+    },
+    {
+      "num": 517,
+      "id": "nqalvizMWXM",
+      "title": "Why God Cannot Be Proven",
+      "status": "pending",
+      "upload_date": "20250327"
+    },
+    {
+      "num": 518,
+      "id": "wl6eUHRruzM",
+      "title": "8 Unique and Original Proofs Of God",
+      "status": "pending",
+      "upload_date": "20250509"
+    },
+    {
+      "num": 519,
+      "id": "ECUHkflwBQc",
+      "title": "What Is Fake Spirituality?",
+      "status": "pending",
+      "upload_date": "20250715"
+    },
+    {
+      "num": 520,
+      "id": "nvNGha_g2U4",
+      "title": "Why Truth Is The Highest Value",
+      "status": "pending",
+      "upload_date": "20250908"
+    },
+    {
+      "num": 521,
+      "id": "mymKIKmAwB8",
+      "title": "The Psychology Of Conformity",
+      "status": "pending",
+      "upload_date": "20251031"
+    },
+    {
+      "num": 522,
+      "id": "siuLQuq6opI",
+      "title": "Deconstructing Rationality - Part 1",
+      "status": "pending",
+      "upload_date": "20251124"
+    },
+    {
+      "num": 523,
+      "id": "69muKLT1OZQ",
+      "title": "Deconstructing Rationality - Part 2",
+      "status": "pending",
+      "upload_date": "20251210"
+    },
+    {
+      "num": 524,
+      "id": "W5kvXJNMMM4",
+      "title": "Epistemic Responsibility",
+      "status": "pending",
+      "upload_date": "20260228"
+    },
+    {
+      "num": 525,
+      "id": "4zZLWiikG9A",
+      "title": "Deconstructing Rationality - Part 3",
+      "status": "pending",
+      "upload_date": "20260329"
     }
   ]
 }

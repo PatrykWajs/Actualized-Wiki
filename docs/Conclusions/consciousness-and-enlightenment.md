@@ -682,3 +682,27 @@ This video explores the fundamental nature of ego as the self-image construct th
 Leo explores the paradoxical notion that life has no objective purpose, yet argues this understanding should drive you toward greater purpose-driven living. He contends that meaning exists only in the mind, and that recognizing this freedom allows you to consciously choose a purpose aligned with your highest potential through self-actualization.
 
 [▶ Watch](https://www.youtube.com/watch?v=aLVuKlz_7nM)
+
+### [Understanding Gaslighting - An Advanced Explanation](../Episodes/509 - Understanding Gaslighting - An Advanced Explanation/summary.md)
+
+This episode provides both a practical and philosophical examination of gaslighting, moving beyond the standard psychological definition to explore deeper epistemological truths about reality construction and perspective. Leo distinguishes between intentional psychological manipulation and the innocent clashing of different reality bubbles that occurs naturally between humans with different worldviews, personalities, and levels of consciousness.
+
+[▶ Watch](https://www.youtube.com/watch?v=qQMQe-BD-Us)
+
+### [The Psychology Of Being Wrong](../Episodes/512 - The Psychology Of Being Wrong/summary.md)
+
+This episode explores the fundamental skill of admitting wrongness as the cornerstone of personal growth and consciousness development. Leo argues that the capacity to recognize, face, and acknowledge where you're wrong—particularly in deep, systemic ways—is essential for breaking through psychological stuck points and accessing higher stages of consciousness.
+
+[▶ Watch](https://www.youtube.com/watch?v=ClZ9B_V63Y4)
+
+### [The Ultimate Guide To Post-Modernism - Part 1](../Episodes/513 - The Ultimate Guide To Post-Modernism - Part 1/summary.md)
+
+This is the first part of a multi-part series on postmodernism that goes beyond standard explanations to explore how postmodern thinking can facilitate higher stages of cognitive development, construct awareness, and meta-rationality. Leo Gura clarifies postmodernism by contrasting it with premodernism and modernism, presents a steel-manned version that avoids political strawmanning, and establishes the philosophical foundations for understanding postmodernism's core insights about perspective, interpretation, and the constructed nature of knowledge systems.
+
+[▶ Watch](https://www.youtube.com/watch?v=421RyqJ5__4)
+
+### [How To Distinguish Lower vs Higher Perspectives - Part 1](../Episodes/514 - How To Distinguish Lower vs Higher Perspectives - Part 1/summary.md)
+
+This episode addresses the fundamental challenge of evaluating competing worldviews and perspectives in an age of information overload and bad-faith actors. Leo argues that not all perspectives are equal and provides structural criteria—rooted in epistemology, intellectual integrity, and psychological development—for distinguishing lower-quality from higher-quality worldviews.
+
+[▶ Watch](https://www.youtube.com/watch?v=d3B93rTcI6U)

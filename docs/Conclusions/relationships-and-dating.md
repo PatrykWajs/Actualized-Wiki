@@ -178,3 +178,21 @@ Leo Gura draws from two years of intensive study and field experience in the pic
 Leo introduces his philosophy on personal development, emphasizing that real progress requires both wisdom and practical implementation rather than just consuming information. He argues that most available self-help content is too focused on "how-to" mechanics without addressing the deeper motivation, strategy, and life philosophy needed to create lasting change and live up to your full potential.
 
 [▶ Watch](https://www.youtube.com/watch?v=8Qro7AXGyb0)
+
+### [Why Andrew Tate's Man-Philosophy Cannot Work](../Episodes/506 - Why Andrew Tate's Man-Philosophy Cannot Work/summary.md)
+
+Leo Gura provides a comprehensive critique of Andrew Tate's philosophy and business practices, arguing that while Tate appears appealing to young men seeking success with women and money, his teachings are fundamentally built on sociopathic, unethical foundations that guarantee failure in creating genuine happiness and fulfilling relationships. Rather than demonizing Tate legally, Leo examines the deeper philosophical flaws that make his approach toxic and ultimately self-destructive for followers.
+
+[▶ Watch](https://www.youtube.com/watch?v=VFFBtnQLCk4)
+
+### [Understanding Gaslighting - An Advanced Explanation](../Episodes/509 - Understanding Gaslighting - An Advanced Explanation/summary.md)
+
+This episode provides both a practical and philosophical examination of gaslighting, moving beyond the standard psychological definition to explore deeper epistemological truths about reality construction and perspective. Leo distinguishes between intentional psychological manipulation and the innocent clashing of different reality bubbles that occurs naturally between humans with different worldviews, personalities, and levels of consciousness.
+
+[▶ Watch](https://www.youtube.com/watch?v=qQMQe-BD-Us)
+
+### [250 Traps Of Life - The Psychology Of Traps](../Episodes/511 - 250 Traps Of Life - The Psychology Of Traps/summary.md)
+
+This practical episode presents a comprehensive conceptual framework for navigating life by understanding "traps"—situations that appear beneficial but ultimately cause great harm. Leo Gura explores over 250 specific traps across all domains of life, from relationships and spirituality to business and politics, arguing that intelligence is fundamentally the ability to recognize and avoid these psychological pitfalls before they ensnare you.
+
+[▶ Watch](https://www.youtube.com/watch?v=v3TDLSwHugI)

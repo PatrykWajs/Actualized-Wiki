@@ -1288,3 +1288,33 @@ This video explores whether personal development and happiness are better achiev
 This video contrasts living a "comfortable life" versus a "charged life," arguing that true fulfillment and pride come from challenging yourself rather than seeking ease. Leo introduces the "5 Proudest Moments Exercise" to help viewers recognize that their greatest accomplishments were difficult and required growth, and shows how recognizing this pattern can motivate more intentional choices toward a fulfilling life.
 
 [▶ Watch](https://www.youtube.com/watch?v=iUPR_3qgypU)
+
+### [The Ultimate Guide To Happiness - How Happiness Works](../Episodes/508 - The Ultimate Guide To Happiness - How Happiness Works/summary.md)
+
+This comprehensive guide explores what actually makes people happy versus what culture falsely promises will. Leo argues that true happiness comes not from chasing pleasure, material success, or unconditional spiritual ideals, but from living virtuously, developing character, and building a life aligned with your authentic values and personality type.
+
+[▶ Watch](https://www.youtube.com/watch?v=lbOC_tYRNoE)
+
+### [What Is Maturity? - How and Why To Develop Maturity](../Episodes/510 - What Is Maturity - How and Why To Develop Maturity/summary.md)
+
+This video provides an extensive exploration of what constitutes maturity versus immaturity through concrete examples, behavioral patterns, and psychological analysis. Leo argues that maturity is fundamentally about taking responsibility, facing truth, developing self-control, and moving beyond survival-based selfishness toward higher values and service.
+
+[▶ Watch](https://www.youtube.com/watch?v=JXTO0FtsYXs)
+
+### [250 Traps Of Life - The Psychology Of Traps](../Episodes/511 - 250 Traps Of Life - The Psychology Of Traps/summary.md)
+
+This practical episode presents a comprehensive conceptual framework for navigating life by understanding "traps"—situations that appear beneficial but ultimately cause great harm. Leo Gura explores over 250 specific traps across all domains of life, from relationships and spirituality to business and politics, arguing that intelligence is fundamentally the ability to recognize and avoid these psychological pitfalls before they ensnare you.
+
+[▶ Watch](https://www.youtube.com/watch?v=v3TDLSwHugI)
+
+### [The Psychology Of Being Wrong](../Episodes/512 - The Psychology Of Being Wrong/summary.md)
+
+This episode explores the fundamental skill of admitting wrongness as the cornerstone of personal growth and consciousness development. Leo argues that the capacity to recognize, face, and acknowledge where you're wrong—particularly in deep, systemic ways—is essential for breaking through psychological stuck points and accessing higher stages of consciousness.
+
+[▶ Watch](https://www.youtube.com/watch?v=ClZ9B_V63Y4)
+
+### [How To Distinguish Lower vs Higher Perspectives - Part 1](../Episodes/514 - How To Distinguish Lower vs Higher Perspectives - Part 1/summary.md)
+
+This episode addresses the fundamental challenge of evaluating competing worldviews and perspectives in an age of information overload and bad-faith actors. Leo argues that not all perspectives are equal and provides structural criteria—rooted in epistemology, intellectual integrity, and psychological development—for distinguishing lower-quality from higher-quality worldviews.
+
+[▶ Watch](https://www.youtube.com/watch?v=d3B93rTcI6U)

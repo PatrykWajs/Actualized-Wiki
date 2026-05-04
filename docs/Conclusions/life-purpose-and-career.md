@@ -628,3 +628,15 @@ This video explores whether personal development and happiness are better achiev
 This video contrasts living a "comfortable life" versus a "charged life," arguing that true fulfillment and pride come from challenging yourself rather than seeking ease. Leo introduces the "5 Proudest Moments Exercise" to help viewers recognize that their greatest accomplishments were difficult and required growth, and shows how recognizing this pattern can motivate more intentional choices toward a fulfilling life.
 
 [▶ Watch](https://www.youtube.com/watch?v=iUPR_3qgypU)
+
+### [The Ultimate Guide To Happiness - How Happiness Works](../Episodes/508 - The Ultimate Guide To Happiness - How Happiness Works/summary.md)
+
+This comprehensive guide explores what actually makes people happy versus what culture falsely promises will. Leo argues that true happiness comes not from chasing pleasure, material success, or unconditional spiritual ideals, but from living virtuously, developing character, and building a life aligned with your authentic values and personality type.
+
+[▶ Watch](https://www.youtube.com/watch?v=lbOC_tYRNoE)
+
+### [250 Traps Of Life - The Psychology Of Traps](../Episodes/511 - 250 Traps Of Life - The Psychology Of Traps/summary.md)
+
+This practical episode presents a comprehensive conceptual framework for navigating life by understanding "traps"—situations that appear beneficial but ultimately cause great harm. Leo Gura explores over 250 specific traps across all domains of life, from relationships and spirituality to business and politics, arguing that intelligence is fundamentally the ability to recognize and avoid these psychological pitfalls before they ensnare you.
+
+[▶ Watch](https://www.youtube.com/watch?v=v3TDLSwHugI)

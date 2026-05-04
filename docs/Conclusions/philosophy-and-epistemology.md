@@ -622,3 +622,45 @@ Leo explores self-actualization as defined by Abraham Maslow, positioning it as 
 Leo explores the paradoxical notion that life has no objective purpose, yet argues this understanding should drive you toward greater purpose-driven living. He contends that meaning exists only in the mind, and that recognizing this freedom allows you to consciously choose a purpose aligned with your highest potential through self-actualization.
 
 [▶ Watch](https://www.youtube.com/watch?v=aLVuKlz_7nM)
+
+### [The Ultimate Guide To Happiness - How Happiness Works](../Episodes/508 - The Ultimate Guide To Happiness - How Happiness Works/summary.md)
+
+This comprehensive guide explores what actually makes people happy versus what culture falsely promises will. Leo argues that true happiness comes not from chasing pleasure, material success, or unconditional spiritual ideals, but from living virtuously, developing character, and building a life aligned with your authentic values and personality type.
+
+[▶ Watch](https://www.youtube.com/watch?v=lbOC_tYRNoE)
+
+### [Understanding Gaslighting - An Advanced Explanation](../Episodes/509 - Understanding Gaslighting - An Advanced Explanation/summary.md)
+
+This episode provides both a practical and philosophical examination of gaslighting, moving beyond the standard psychological definition to explore deeper epistemological truths about reality construction and perspective. Leo distinguishes between intentional psychological manipulation and the innocent clashing of different reality bubbles that occurs naturally between humans with different worldviews, personalities, and levels of consciousness.
+
+[▶ Watch](https://www.youtube.com/watch?v=qQMQe-BD-Us)
+
+### [What Is Maturity? - How and Why To Develop Maturity](../Episodes/510 - What Is Maturity - How and Why To Develop Maturity/summary.md)
+
+This video provides an extensive exploration of what constitutes maturity versus immaturity through concrete examples, behavioral patterns, and psychological analysis. Leo argues that maturity is fundamentally about taking responsibility, facing truth, developing self-control, and moving beyond survival-based selfishness toward higher values and service.
+
+[▶ Watch](https://www.youtube.com/watch?v=JXTO0FtsYXs)
+
+### [250 Traps Of Life - The Psychology Of Traps](../Episodes/511 - 250 Traps Of Life - The Psychology Of Traps/summary.md)
+
+This practical episode presents a comprehensive conceptual framework for navigating life by understanding "traps"—situations that appear beneficial but ultimately cause great harm. Leo Gura explores over 250 specific traps across all domains of life, from relationships and spirituality to business and politics, arguing that intelligence is fundamentally the ability to recognize and avoid these psychological pitfalls before they ensnare you.
+
+[▶ Watch](https://www.youtube.com/watch?v=v3TDLSwHugI)
+
+### [The Psychology Of Being Wrong](../Episodes/512 - The Psychology Of Being Wrong/summary.md)
+
+This episode explores the fundamental skill of admitting wrongness as the cornerstone of personal growth and consciousness development. Leo argues that the capacity to recognize, face, and acknowledge where you're wrong—particularly in deep, systemic ways—is essential for breaking through psychological stuck points and accessing higher stages of consciousness.
+
+[▶ Watch](https://www.youtube.com/watch?v=ClZ9B_V63Y4)
+
+### [The Ultimate Guide To Post-Modernism - Part 1](../Episodes/513 - The Ultimate Guide To Post-Modernism - Part 1/summary.md)
+
+This is the first part of a multi-part series on postmodernism that goes beyond standard explanations to explore how postmodern thinking can facilitate higher stages of cognitive development, construct awareness, and meta-rationality. Leo Gura clarifies postmodernism by contrasting it with premodernism and modernism, presents a steel-manned version that avoids political strawmanning, and establishes the philosophical foundations for understanding postmodernism's core insights about perspective, interpretation, and the constructed nature of knowledge systems.
+
+[▶ Watch](https://www.youtube.com/watch?v=421RyqJ5__4)
+
+### [How To Distinguish Lower vs Higher Perspectives - Part 1](../Episodes/514 - How To Distinguish Lower vs Higher Perspectives - Part 1/summary.md)
+
+This episode addresses the fundamental challenge of evaluating competing worldviews and perspectives in an age of information overload and bad-faith actors. Leo argues that not all perspectives are equal and provides structural criteria—rooted in epistemology, intellectual integrity, and psychological development—for distinguishing lower-quality from higher-quality worldviews.
+
+[▶ Watch](https://www.youtube.com/watch?v=d3B93rTcI6U)

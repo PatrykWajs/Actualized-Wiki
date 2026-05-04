@@ -1162,3 +1162,27 @@ This practical episode presents a comprehensive conceptual framework for navigat
 This episode explores the fundamental skill of admitting wrongness as the cornerstone of personal growth and consciousness development. Leo argues that the capacity to recognize, face, and acknowledge where you're wrong—particularly in deep, systemic ways—is essential for breaking through psychological stuck points and accessing higher stages of consciousness.
 
 [▶ Watch](https://www.youtube.com/watch?v=ClZ9B_V63Y4)
+
+### [What Is Fake Spirituality?](../Episodes/519 - What Is Fake Spirituality/summary.md)
+
+This episode makes a critical distinction between genuine spirituality and fake spirituality, which gets muddled in new age circles and postmodern relativism. Leo argues that real spirituality is about deconstructing illusions and seeking truth about the nature of reality, while fake spirituality uses spiritual concepts and beliefs to avoid this difficult work and maintain one's existing illusions.
+
+[▶ Watch](https://www.youtube.com/watch?v=ECUHkflwBQc)
+
+### [Why Truth Is The Highest Value](../Episodes/520 - Why Truth Is The Highest Value/summary.md)
+
+This episode presents the radical thesis that truth must be your highest value in life, above all other values including love, family, happiness, and social justice. Leo argues that when people prioritize anything above truth—money, success, power, relationships, or even noble causes—they inevitably fall into self-deception, corruption, and a progressively fake existence.
+
+[▶ Watch](https://www.youtube.com/watch?v=nvNGha_g2U4)
+
+### [Deconstructing Rationality - Part 2](../Episodes/523 - Deconstructing Rationality - Part 2/summary.md)
+
+This video deconstructs the limitations of rationalism as an epistemology and way of understanding reality. Leo argues that rationalism fundamentally fails because it attempts to reduce all qualities to quantities, collapses understanding into mere knowledge, and ignores the essential role of consciousness, intuition, and informal intelligence in proper thinking and sensemaking.
+
+[▶ Watch](https://www.youtube.com/watch?v=69muKLT1OZQ)
+
+### [Deconstructing Rationality - Part 3](../Episodes/525 - Deconstructing Rationality - Part 3/summary.md)
+
+Leo deconstructs rationalism by examining its fundamental epistemological failures and blind spots. He argues that rationality lacks understanding of relativity, meaning-making, multiple perspectives, and the profound role of culture and human bias.
+
+[▶ Watch](https://www.youtube.com/watch?v=4zZLWiikG9A)

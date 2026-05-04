@@ -4,7 +4,7 @@ title: Home
 
 # Actualized.org Wiki
 
-The most comprehensive AI-generated knowledge base for Actualized.org — Leo Gura's life-work on consciousness, self-actualization, and the deepest questions of human existence. Structured summaries, full transcripts, and aggregated topic conclusions from **493 episodes**.
+The most comprehensive AI-generated knowledge base for Actualized.org — Leo Gura's life-work on consciousness, self-actualization, and the deepest questions of human existence. Structured summaries, full transcripts, and aggregated topic conclusions from **504 episodes**.
 
 Not affiliated with Actualized.org or Leo Gura. Built for personal research use.
 
@@ -12,13 +12,13 @@ Not affiliated with Actualized.org or Leo Gura. Built for personal research use.
 
 ## 🎬 Latest Episode
 
-**#514 — How To Distinguish Lower vs Higher Perspectives - Part 1** *(Jan 2025)*
+**#525 — Deconstructing Rationality - Part 3** *(Mar 2026)*
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/d3B93rTcI6U" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/4zZLWiikG9A" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-[:octicons-arrow-right-24: Read Summary & Transcript](Episodes/514 - How To Distinguish Lower vs Higher Perspectives - Part 1/summary.md)
+[:octicons-arrow-right-24: Read Summary & Transcript](Episodes/525 - Deconstructing Rationality - Part 3/summary.md)
 
 ---
 
@@ -30,7 +30,7 @@ Not affiliated with Actualized.org or Leo Gura. Built for personal research use.
 
     ---
 
-    Chronological list of all 493 processed episodes with direct links to summaries and transcripts.
+    Chronological list of all 504 processed episodes with direct links to summaries and transcripts.
 
     [:octicons-arrow-right-24: Browse All Episodes](MAP.md)
 
@@ -91,7 +91,7 @@ Not affiliated with Actualized.org or Leo Gura. Built for personal research use.
 | Metric | Count |
 |--------|-------|
 | **Total Episodes** | 525 |
-| **Processed Episodes** | 493 |
+| **Processed Episodes** | 504 |
 | **No Transcript** | 21 |
 | **Topic Categories** | 22 |
 | **Last Updated** | May 2026 |

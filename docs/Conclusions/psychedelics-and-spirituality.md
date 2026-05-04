@@ -142,3 +142,21 @@ Leo explores why culture—all culture, not just specific ones—fundamentally s
 Leo shares detailed personal experiences with psilocybin mushrooms and explores how psychedelics can be responsibly used as tools for self-actualization and consciousness exploration. He emphasizes that psychedelics are not shortcuts to enlightenment but rather can provide glimpses into deeper truths when used by someone with a solid foundation in spiritual practice, meditation, and self-inquiry.
 
 [▶ Watch](https://www.youtube.com/watch?v=ypDRRcMKj7E)
+
+### [Why God Cannot Be Proven](../Episodes/517 - Why God Cannot Be Proven/summary.md)
+
+This episode deconstructs the nature of proof, logic, and epistemology to explain why God—if it exists as an absolute—cannot be proven using scientific method or logical argument. Leo argues that the very attempt to prove God through relative methods is fundamentally misguided, and explores how cultural conditioning, hidden metaphysical assumptions, and the limitations of human rationality prevent us from accessing absolute truth through conventional means.
+
+[▶ Watch](https://www.youtube.com/watch?v=nqalvizMWXM)
+
+### [8 Unique and Original Proofs Of God](../Episodes/518 - 8 Unique and Original Proofs Of God/summary.md)
+
+Leo presents eight original logical proofs for God's existence, grounded in his direct experiential awakenings rather than traditional theological arguments. These proofs demonstrate that reality's fundamental nature necessarily entails an infinite, conscious, omnipotent entity—God—through rigorous ontological analysis of oneness, distinction, and infinity.
+
+[▶ Watch](https://www.youtube.com/watch?v=wl6eUHRruzM)
+
+### [Deconstructing Rationality - Part 3](../Episodes/525 - Deconstructing Rationality - Part 3/summary.md)
+
+Leo deconstructs rationalism by examining its fundamental epistemological failures and blind spots. He argues that rationality lacks understanding of relativity, meaning-making, multiple perspectives, and the profound role of culture and human bias.
+
+[▶ Watch](https://www.youtube.com/watch?v=4zZLWiikG9A)

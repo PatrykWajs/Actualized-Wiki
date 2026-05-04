@@ -706,3 +706,69 @@ This is the first part of a multi-part series on postmodernism that goes beyond 
 This episode addresses the fundamental challenge of evaluating competing worldviews and perspectives in an age of information overload and bad-faith actors. Leo argues that not all perspectives are equal and provides structural criteria—rooted in epistemology, intellectual integrity, and psychological development—for distinguishing lower-quality from higher-quality worldviews.
 
 [▶ Watch](https://www.youtube.com/watch?v=d3B93rTcI6U)
+
+### [The Ultimate Guide To Post-Modernism - Part 2](../Episodes/515 - The Ultimate Guide To Post-Modernism - Part 2/summary.md)
+
+This video provides a comprehensive analysis of postmodernism's strengths and weaknesses, moving beyond academic philosophy to offer practical wisdom about where postmodernism is correct and where it fails. Leo argues that understanding both modernism and postmodernism requires transcending pure philosophy and engaging spiritual awakening, and that a genuine synthesis of both paradigms is necessary for advanced sensemaking about reality.
+
+[▶ Watch](https://www.youtube.com/watch?v=TP6-j_f4p4Q)
+
+### [Top Proofs For The Existence Of God](../Episodes/516 - Top Proofs For The Existence Of God/summary.md)
+
+Leo Gura systematically deconstructs the classical philosophical arguments for God's existence, examining their logical structure, hidden assumptions, and epistemological problems. Rather than attempting to prove or disprove God, Leo focuses on why metaphysical proofs are so epistemically problematic and what this reveals about the nature of consciousness, existence, and how the human mind grapples with ultimate questions.
+
+[▶ Watch](https://www.youtube.com/watch?v=zL9dnDksZM8)
+
+### [Why God Cannot Be Proven](../Episodes/517 - Why God Cannot Be Proven/summary.md)
+
+This episode deconstructs the nature of proof, logic, and epistemology to explain why God—if it exists as an absolute—cannot be proven using scientific method or logical argument. Leo argues that the very attempt to prove God through relative methods is fundamentally misguided, and explores how cultural conditioning, hidden metaphysical assumptions, and the limitations of human rationality prevent us from accessing absolute truth through conventional means.
+
+[▶ Watch](https://www.youtube.com/watch?v=nqalvizMWXM)
+
+### [8 Unique and Original Proofs Of God](../Episodes/518 - 8 Unique and Original Proofs Of God/summary.md)
+
+Leo presents eight original logical proofs for God's existence, grounded in his direct experiential awakenings rather than traditional theological arguments. These proofs demonstrate that reality's fundamental nature necessarily entails an infinite, conscious, omnipotent entity—God—through rigorous ontological analysis of oneness, distinction, and infinity.
+
+[▶ Watch](https://www.youtube.com/watch?v=wl6eUHRruzM)
+
+### [What Is Fake Spirituality?](../Episodes/519 - What Is Fake Spirituality/summary.md)
+
+This episode makes a critical distinction between genuine spirituality and fake spirituality, which gets muddled in new age circles and postmodern relativism. Leo argues that real spirituality is about deconstructing illusions and seeking truth about the nature of reality, while fake spirituality uses spiritual concepts and beliefs to avoid this difficult work and maintain one's existing illusions.
+
+[▶ Watch](https://www.youtube.com/watch?v=ECUHkflwBQc)
+
+### [Why Truth Is The Highest Value](../Episodes/520 - Why Truth Is The Highest Value/summary.md)
+
+This episode presents the radical thesis that truth must be your highest value in life, above all other values including love, family, happiness, and social justice. Leo argues that when people prioritize anything above truth—money, success, power, relationships, or even noble causes—they inevitably fall into self-deception, corruption, and a progressively fake existence.
+
+[▶ Watch](https://www.youtube.com/watch?v=nvNGha_g2U4)
+
+### [The Psychology Of Conformity](../Episodes/521 - The Psychology Of Conformity/summary.md)
+
+Leo explores how conformity operates as a fundamental trap in personal development and spiritual work, showing that most people's worldviews are simply cultural programming rather than independent thought. He argues that true autonomy of mind is extraordinarily rare (less than 1% of humanity) and that breaking free from cultural conformity is essential for genuine truth-seeking, spirituality, and consciousness development.
+
+[▶ Watch](https://www.youtube.com/watch?v=mymKIKmAwB8)
+
+### [Deconstructing Rationality - Part 1](../Episodes/522 - Deconstructing Rationality - Part 1/summary.md)
+
+This is part one of a three-part series deconstructing rationalism and its limits. Leo provides a comprehensive technical deconstruction of how rationality becomes self-deception and prevents us from understanding reality at the deepest levels.
+
+[▶ Watch](https://www.youtube.com/watch?v=siuLQuq6opI)
+
+### [Deconstructing Rationality - Part 2](../Episodes/523 - Deconstructing Rationality - Part 2/summary.md)
+
+This video deconstructs the limitations of rationalism as an epistemology and way of understanding reality. Leo argues that rationalism fundamentally fails because it attempts to reduce all qualities to quantities, collapses understanding into mere knowledge, and ignores the essential role of consciousness, intuition, and informal intelligence in proper thinking and sensemaking.
+
+[▶ Watch](https://www.youtube.com/watch?v=69muKLT1OZQ)
+
+### [Epistemic Responsibility](../Episodes/524 - Epistemic Responsibility/summary.md)
+
+Leo discusses epistemic responsibility—the duty to take ownership over your understanding of reality and align yourself with truth. He argues that epistemic irresponsibility is the root cause of most human suffering and societal dysfunction, and that even highly responsible people in their careers and relationships are profoundly epistemically irresponsible.
+
+[▶ Watch](https://www.youtube.com/watch?v=W5kvXJNMMM4)
+
+### [Deconstructing Rationality - Part 3](../Episodes/525 - Deconstructing Rationality - Part 3/summary.md)
+
+Leo deconstructs rationalism by examining its fundamental epistemological failures and blind spots. He argues that rationality lacks understanding of relativity, meaning-making, multiple perspectives, and the profound role of culture and human bias.
+
+[▶ Watch](https://www.youtube.com/watch?v=4zZLWiikG9A)

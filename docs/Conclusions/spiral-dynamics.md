@@ -208,3 +208,21 @@ This episode explores the fundamental skill of admitting wrongness as the corner
 This is the first part of a multi-part series on postmodernism that goes beyond standard explanations to explore how postmodern thinking can facilitate higher stages of cognitive development, construct awareness, and meta-rationality. Leo Gura clarifies postmodernism by contrasting it with premodernism and modernism, presents a steel-manned version that avoids political strawmanning, and establishes the philosophical foundations for understanding postmodernism's core insights about perspective, interpretation, and the constructed nature of knowledge systems.
 
 [▶ Watch](https://www.youtube.com/watch?v=421RyqJ5__4)
+
+### [The Ultimate Guide To Post-Modernism - Part 2](../Episodes/515 - The Ultimate Guide To Post-Modernism - Part 2/summary.md)
+
+This video provides a comprehensive analysis of postmodernism's strengths and weaknesses, moving beyond academic philosophy to offer practical wisdom about where postmodernism is correct and where it fails. Leo argues that understanding both modernism and postmodernism requires transcending pure philosophy and engaging spiritual awakening, and that a genuine synthesis of both paradigms is necessary for advanced sensemaking about reality.
+
+[▶ Watch](https://www.youtube.com/watch?v=TP6-j_f4p4Q)
+
+### [The Psychology Of Conformity](../Episodes/521 - The Psychology Of Conformity/summary.md)
+
+Leo explores how conformity operates as a fundamental trap in personal development and spiritual work, showing that most people's worldviews are simply cultural programming rather than independent thought. He argues that true autonomy of mind is extraordinarily rare (less than 1% of humanity) and that breaking free from cultural conformity is essential for genuine truth-seeking, spirituality, and consciousness development.
+
+[▶ Watch](https://www.youtube.com/watch?v=mymKIKmAwB8)
+
+### [Deconstructing Rationality - Part 3](../Episodes/525 - Deconstructing Rationality - Part 3/summary.md)
+
+Leo deconstructs rationalism by examining its fundamental epistemological failures and blind spots. He argues that rationality lacks understanding of relativity, meaning-making, multiple perspectives, and the profound role of culture and human bias.
+
+[▶ Watch](https://www.youtube.com/watch?v=4zZLWiikG9A)

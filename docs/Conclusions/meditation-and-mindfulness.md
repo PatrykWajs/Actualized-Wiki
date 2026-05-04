@@ -406,3 +406,9 @@ Leo presents ten scientifically-backed techniques for achieving sustainable happ
 This video explores the pervasive nature of automatic negative thoughts and their roots in evolutionary biology. Leo explains why negative thinking is hardwired into human consciousness through our reptilian brain and provides practical techniques for awareness, management, and elimination of negative thought patterns.
 
 [▶ Watch](https://www.youtube.com/watch?v=mggupbkTmWc)
+
+### [8 Unique and Original Proofs Of God](../Episodes/518 - 8 Unique and Original Proofs Of God/summary.md)
+
+Leo presents eight original logical proofs for God's existence, grounded in his direct experiential awakenings rather than traditional theological arguments. These proofs demonstrate that reality's fundamental nature necessarily entails an infinite, conscious, omnipotent entity—God—through rigorous ontological analysis of oneness, distinction, and infinity.
+
+[▶ Watch](https://www.youtube.com/watch?v=wl6eUHRruzM)

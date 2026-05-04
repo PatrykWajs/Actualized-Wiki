@@ -1318,3 +1318,33 @@ This episode explores the fundamental skill of admitting wrongness as the corner
 This episode addresses the fundamental challenge of evaluating competing worldviews and perspectives in an age of information overload and bad-faith actors. Leo argues that not all perspectives are equal and provides structural criteria—rooted in epistemology, intellectual integrity, and psychological development—for distinguishing lower-quality from higher-quality worldviews.
 
 [▶ Watch](https://www.youtube.com/watch?v=d3B93rTcI6U)
+
+### [What Is Fake Spirituality?](../Episodes/519 - What Is Fake Spirituality/summary.md)
+
+This episode makes a critical distinction between genuine spirituality and fake spirituality, which gets muddled in new age circles and postmodern relativism. Leo argues that real spirituality is about deconstructing illusions and seeking truth about the nature of reality, while fake spirituality uses spiritual concepts and beliefs to avoid this difficult work and maintain one's existing illusions.
+
+[▶ Watch](https://www.youtube.com/watch?v=ECUHkflwBQc)
+
+### [Why Truth Is The Highest Value](../Episodes/520 - Why Truth Is The Highest Value/summary.md)
+
+This episode presents the radical thesis that truth must be your highest value in life, above all other values including love, family, happiness, and social justice. Leo argues that when people prioritize anything above truth—money, success, power, relationships, or even noble causes—they inevitably fall into self-deception, corruption, and a progressively fake existence.
+
+[▶ Watch](https://www.youtube.com/watch?v=nvNGha_g2U4)
+
+### [The Psychology Of Conformity](../Episodes/521 - The Psychology Of Conformity/summary.md)
+
+Leo explores how conformity operates as a fundamental trap in personal development and spiritual work, showing that most people's worldviews are simply cultural programming rather than independent thought. He argues that true autonomy of mind is extraordinarily rare (less than 1% of humanity) and that breaking free from cultural conformity is essential for genuine truth-seeking, spirituality, and consciousness development.
+
+[▶ Watch](https://www.youtube.com/watch?v=mymKIKmAwB8)
+
+### [Deconstructing Rationality - Part 1](../Episodes/522 - Deconstructing Rationality - Part 1/summary.md)
+
+This is part one of a three-part series deconstructing rationalism and its limits. Leo provides a comprehensive technical deconstruction of how rationality becomes self-deception and prevents us from understanding reality at the deepest levels.
+
+[▶ Watch](https://www.youtube.com/watch?v=siuLQuq6opI)
+
+### [Epistemic Responsibility](../Episodes/524 - Epistemic Responsibility/summary.md)
+
+Leo discusses epistemic responsibility—the duty to take ownership over your understanding of reality and align yourself with truth. He argues that epistemic irresponsibility is the root cause of most human suffering and societal dysfunction, and that even highly responsible people in their careers and relationships are profoundly epistemically irresponsible.
+
+[▶ Watch](https://www.youtube.com/watch?v=W5kvXJNMMM4)

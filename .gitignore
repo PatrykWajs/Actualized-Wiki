@@ -1,1 +1,10 @@
 site/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+cookies.txt
+inbox/
+pipeline.py
+build_conclusions.py
+PROGRESS.json
